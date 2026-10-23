@@ -19,3 +19,10 @@ I have considered using collaborative filtering to produce a reccomendation syst
 TMDB API (pip install tmdbsimple)
 Pandas (pip install pandas)
 Google API (pip install google-genai)
+
+
+## Current State
+So far I have explored a few of the pipelines in some jupyter notebooks, and I'm also pulling some movie states, so stay tuned for that.
+
+Here is an image of the current clustering of some movies I have:
+![Movie Clusters](./src/imgs/popular-movie-latent-space-clusters.jpg)
