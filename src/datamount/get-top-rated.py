@@ -7,7 +7,7 @@ from dotenv import load_dotenv; load_dotenv()
 print(f"workdir: {os.getcwd()}")
 tmdb.API_KEY = os.getenv("TMDB_API_KEY")
 
-n_pages = 1
+n_pages = 100
 movie_data = []
 
 for page in tqdm.tqdm(range(1,n_pages+1), desc="pulling pages", leave=True):
@@ -30,7 +30,7 @@ for page in tqdm.tqdm(range(1,n_pages+1), desc="pulling pages", leave=True):
             f"Title: {title} ({release_date}). "
             f"Genres: {genres}. "
             f"Tagline: {tagline} "
-            f"Overview: {overview}. "
+            f"Overview: {overview} "
             f"Production companies: {production_companies}. "
             f"Origin country: {origin_country}. "
             f"Production contries: {production_countries}"

@@ -15,7 +15,7 @@ wheels/
 # data files
 .json
 .csv
-.csv.gz
+.gz
 .parquet
 .pt
 .pth
