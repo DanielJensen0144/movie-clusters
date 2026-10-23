@@ -1,19 +1,24 @@
 [project]
 name = "movie-clusters"
 version = "0.1.0"
-description = "Add your description here"
+description = "Practice unsupervised learning by clustering movie embeddings using gemini-embedding-2."
 readme = "README.md"
 authors = [
     { name = "Daniel Jensen", email = "jensendaniel0144@gmail.com" }
 ]
 requires-python = ">=3.13"
 dependencies = [
+    "dotenv>=0.9.9",
+    "google-genai>=2.33.0",
+    "iprogress>=0.4",
+    "ipykernel>=7.4.0",
     "jupyterlab>=4.6.4",
     "matplotlib>=3.11.2",
     "numpy>=2.5.4",
     "pandas>=3.1.0",
+    "requests>=2.34.2",
     "seaborn>=0.13.2",
-    "selenium>=4.51.0",
+    "tmdbsimple>=2.9.8",
     "tqdm>=4.70.1",
 ]
 

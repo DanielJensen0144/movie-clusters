@@ -8,3 +8,15 @@ wheels/
 
 # Virtual environments
 .venv
+
+# environment variables
+.env
+
+# data files
+.json
+.csv
+.csv.gz
+.parquet
+.pt
+.pth
+.safetensors
