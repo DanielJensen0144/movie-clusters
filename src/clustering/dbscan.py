@@ -17,12 +17,17 @@ plt.rcParams.update({
 })
 
 from sklearn.decomposition import PCA
+from sklearn.preprocessing import normalize
 from sklearn.cluster import DBSCAN
 
 # main
 embeddings = np.load("../data/embeddings.npy")
 pc1 = np.load("../data/embeddings-pc1.npy")
 pc2 = np.load("../data/embeddings-pc2.npy")
+
+# dbscan struggles with curse of dimensionality, reduce dims
+n_dims = 50
+embeddings_pca = normalize(np.load("../data/embeddings-pca.npy")[:,:n_dims])
 
 # clustering
 db = DBSCAN(eps=0.5, min_samples=5, metric="euclidean", n_jobs=-1)

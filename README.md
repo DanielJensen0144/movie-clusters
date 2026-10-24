@@ -54,6 +54,9 @@ KMeans (K=30) clustering:
 DBSCAN (eps=0.5) clustering:
 ![dbscan-clustering](./src/imgs/top-rated-movie-latent-space-dbscan-16.jpg)
 
+Actually I couldn't get DBSCAN to work whatsoever, even after trying different preprocessing kinds. I read that it struggles a lot with the curse of dimensionality, so I tried dimensionality reduction with PCA but it just made it worse, classifying all points as noise or the same class.
+![dbscan-pca-clustering](./src/imgs/top-rated-movie-latent-space-dbscan-0.jpg)
+
 ### use generative ai to autoproduce semantic labels characterizing the clusters
 TODO
 

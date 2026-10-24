@@ -60,14 +60,16 @@ print("saved embedding vectors!")
 if int(os.getenv("MAKEPLOT1")):
 
     # plot movie embeddings
-    p = PCA(whiten=True, n_components=2, random_state=67)
+    p = PCA(whiten=True, random_state=67)
     embeddings_pca = p.fit_transform(embeddings)
-    print(f"Explained variance: {p.explained_variance_ratio_.sum()*100:.2f}%")
+    print(f"Explained variance: {p.explained_variance_ratio_[:2].sum()*100:.2f}%")
 
     n_plot = int(os.environ.get("N_PLOT", 100))
     pc1 = embeddings_pca[:,0]
     pc2 = embeddings_pca[:,1]
 
+    with open("../data/embeddings-pca.npy", "wb") as f:
+        np.save(f, embeddings_pca)
     with open("../data/embeddings-pc1.npy", "wb") as f:
         np.save(f, pc1)
     with open("../data/embeddings-pc2.npy", "wb") as f:
