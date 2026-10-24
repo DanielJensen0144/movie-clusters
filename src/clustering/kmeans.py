@@ -24,6 +24,7 @@ embeddings = np.load("../data/embeddings.npy")
 pc1 = np.load("../data/embeddings-pc1.npy")
 pc2 = np.load("../data/embeddings-pc2.npy")
 
+# clustering
 n_clusters = 5
 kmeans = KMeans(n_clusters=n_clusters, random_state=67, n_init="auto")
 clusters = kmeans.fit_predict(embeddings)

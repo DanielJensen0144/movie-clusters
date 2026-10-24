@@ -46,10 +46,13 @@ As I am mostly new to unsupervised learning, I wanted to fokus a little more on 
 
 What I decided on, was to make a "clustering" folder, dedicated to testing out different clustering algoritms and hyperparameter setups and seeing what they produce. Maybe I can use this later too see if the clusters were different in more ways than geometric. Perhaps this will become more apparent after auto-labeling the clusters too.
 
-So far I have only implemented KMeans, but I also intend on testing out density methods such as dbscan.
+So far I have implemented KMeans to a success, and am starting on DBSCAN, but not to as much success currently.
 
 KMeans (K=30) clustering:
 ![kmeans-clustering](./src/imgs/top-rated-movie-latent-space-kmeans-30.jpg)
+
+DBSCAN (eps=0.5) clustering:
+![dbscan-clustering](./src/imgs/top-rated-movie-latent-space-dbscan-16.jpg)
 
 ### use generative ai to autoproduce semantic labels characterizing the clusters
 TODO
