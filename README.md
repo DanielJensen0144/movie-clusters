@@ -26,3 +26,37 @@ So far I have explored a few of the pipelines in some jupyter notebooks, and I'm
 
 Here is an image of the current clustering of some movies I have:
 ![Movie Clusters](./src/imgs/popular-movie-latent-space-clusters.jpg)
+
+
+## Progress
+
+### collect movie data using The Movie DataBase (TMDB) API
+I started by learning to use the tmdb api in a notebook, then I formalized the pipeline in a python file to mount the data.
+
+See "./src/datamount/get-top-rated.py"
+
+### produce embeddings on the movies using modern embedding model like gemini-embedding-2
+For my embeddings, I again started by learning how to use the api using a notebook on a small sample dataset. Then, once I was comfortable with the usage, I formalised the embedding pipeline in a python script that I can call to generate embeddings of the top-rated movies, after which I get a scatter plot of their 2D PCA projection.
+
+See "./src/datamount/get-movie-embeddings.py"
+![Movies](./src/imgs/top-rated-movie-latent-space.jpg)
+
+### use unsupervised learning to cluster the movies into groups of similar movies given metric of similarity
+As I am mostly new to unsupervised learning, I wanted to fokus a little more on this, doing so by testing out a few different models and hyperparameters.
+
+What I decided on, was to make a "clustering" folder, dedicated to testing out different clustering algoritms and hyperparameter setups and seeing what they produce. Maybe I can use this later too see if the clusters were different in more ways than geometric. Perhaps this will become more apparent after auto-labeling the clusters too.
+
+So far I have only implemented KMeans, but I also intend on testing out density methods such as dbscan.
+
+KMeans (K=30) clustering:
+![kmeans-clustering](./src/imgs/top-rated-movie-latent-space-kmeans-30.jpg)
+
+### use generative ai to autoproduce semantic labels characterizing the clusters
+TODO
+
+### possibly cluster the clusters to get subgenres
+TODO
+
+### produce a local frontend data app to explore the results
+TODO
+
