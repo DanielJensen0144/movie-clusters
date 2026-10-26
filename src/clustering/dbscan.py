@@ -49,7 +49,7 @@ if int(os.getenv("MAKEPLOT2")):
 
     # add movie titles
     if int(os.getenv("MOVIE_NAMES")):
-        df = pd.read_csv("../data/top_rated.csv.gz", usecols=["title"], compression="gzip")
+        df = pd.read_csv("../data/top-rated.csv.gz", usecols=["title"], compression="gzip")
         for x, y, title in zip(pc1, pc2, df.title.tolist()):
             plt.annotate(title, (x,y), textcoords="offset points", xytext=(0,5), ha="center", fontsize=10, alpha=0.5)
 

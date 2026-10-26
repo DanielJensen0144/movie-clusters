@@ -45,6 +45,6 @@ for page in tqdm.tqdm(range(1,n_pages+1), desc="pulling pages", leave=True):
 print("done fetching movies!")
 
 df = pd.DataFrame(movie_data).set_index("id")
-df.to_csv("../data/top_rated.csv")
+df.to_csv("../data/top-rated.csv")
 print(f"Movie dataset: {df.shape}")
 print(df.head())

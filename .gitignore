@@ -13,11 +13,11 @@ wheels/
 .env
 
 # data files
-.json
-.csv
-.gz
-.parquet
-.pt
-.pth
-.safetensors
-.npy
+*.json
+*.csv
+*.gz
+*.parquet
+*.pt
+*.pth
+*.safetensors
+*.npy

@@ -22,7 +22,7 @@ plt.rcParams.update({
 from sklearn.decomposition import PCA
 
 # main
-df = pd.read_csv("../data/top_rated.csv.gz", compression="gzip")
+df = pd.read_csv("../data/top-rated.csv.gz", compression="gzip")
 
 # google gemini api
 client = genai.Client(api_key=os.getenv("GOOGLE_API_KEY"))

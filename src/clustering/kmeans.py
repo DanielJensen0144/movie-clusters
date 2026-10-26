@@ -25,13 +25,13 @@ pc1 = np.load("../data/embeddings-pc1.npy")
 pc2 = np.load("../data/embeddings-pc2.npy")
 
 # clustering
-n_clusters = 5
+n_clusters = 30
 kmeans = KMeans(n_clusters=n_clusters, random_state=67, n_init="auto")
 clusters = kmeans.fit_predict(embeddings)
 
 with open(f"../data/clusters-kmeans-{n_clusters}.npy", "wb") as f:
     np.save(f, clusters)
-print("saved kmeans clusters (k={n_clusters})")
+print(f"saved kmeans clusters (k={n_clusters})")
 
 # plot projected embeddings by clusters
 if int(os.getenv("MAKEPLOT2")):
@@ -42,7 +42,7 @@ if int(os.getenv("MAKEPLOT2")):
 
     # add movie titles
     if int(os.getenv("MOVIE_NAMES")):
-        df = pd.read_csv("../data/top_rated.csv.gz", usecols=["title"], compression="gzip")
+        df = pd.read_csv("../data/top-rated.csv.gz", usecols=["title"], compression="gzip")
         for x, y, title in zip(pc1, pc2, df.title.tolist()):
             plt.annotate(title, (x,y), textcoords="offset points", xytext=(0,5), ha="center", fontsize=10, alpha=0.5)
 
