@@ -1,189 +1,132 @@
-# 1. **Whimsical Animated Adventures**
+# 1. **Whimsical Character Dramedies**
 
-### 2. These films are united by their identity as family-oriented animated features that emphasize lighthearted comedy, fantastical worlds, and quest-driven narratives.
+### 2. **This cluster features character-driven stories that blend comedy, romance, and light drama to explore the complexities of human relationships, family legacies, and personal transformations, often with a touch of the fantastical.**
 
 
 *Movies in cluster:*
 
-### Trolls World Tour:
-Title: Trolls World Tour (2020). Genres: Family, Animation, Comedy, Fantasy, Adventure, Music. Tagline:  Overview: Queen Poppy and Branch make a surprising discovery — there are other Troll worlds beyond their own, and their distinct differences create big clashes between these various tribes. When a mysterious threat puts all of the Trolls across the land in danger, Poppy, Branch, and their band of friends must embark on an epic quest to create harmony among the feuding Trolls to unite them against certain doom.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
+### Practical Magic 2:
+Title: Practical Magic 2 (2026). Genres: Romance, Fantasy, Comedy. Tagline:  Overview: The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.. Production companies: Di Novi Pictures, Warner Bros. Pictures, Blossom Films, Fortis Films, Domain Entertainment, Alcon Entertainment. Origin country: ['US']. Production contries: United States of America
 
-### The Wild Robot:
-Title: The Wild Robot (2024). Genres: Family, Animation, Science Fiction, Adventure. Tagline:  Overview: After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
+### Sense and Sensibility:
+Title: Sense and Sensibility (2026). Genres: Drama, Romance. Tagline:  Overview: A charming, witty, and deeply relatable story of love and sisterhood.. Production companies: Focus Features, Working Title, November Pictures, Kiddo Films. Origin country: ['GB']. Production contries: United Kingdom, United States of America
 
-### The Super Mario Bros. Movie:
-Title: The Super Mario Bros. Movie (2023). Genres: Family, Comedy, Adventure, Fantasy, Animation. Tagline:  Overview: While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.. Production companies: Universal Pictures, Illumination, Nintendo. Origin country: ['US']. Production contries: Japan, United States of America
+### The Breadwinner:
+Title: The Breadwinner (2026). Genres: Comedy, Family. Tagline:  Overview: After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.. Production companies: Wonder Project, TriStar Pictures, Nateland Entertainment, One Man Canoe, TSG Entertainment. Origin country: ['US']. Production contries: United States of America
 
-### Inside Out 2:
-Title: Inside Out 2 (2024). Genres: Animation, Adventure, Comedy, Family. Tagline:  Overview: Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.. Production companies: Pixar. Origin country: ['US']. Production contries: United States of America
+### Scary Movie:
+Title: Scary Movie (2026). Genres: Comedy. Tagline:  Overview: Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.. Production companies: Wayans Bros. Entertainment, Miramax, Paramount Pictures. Origin country: ['US']. Production contries: United States of America
 
-### Moana 2:
-Title: Moana 2 (2024). Genres: Adventure, Animation, Comedy, Family, Fantasy. Tagline:  Overview: After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.. Production companies: Walt Disney Animation Studios, Walt Disney Animation Studios. Origin country: ['US']. Production contries: Canada, United States of America
+### Crazy Magical Mexico:
+Title: Crazy Magical Mexico (2026). Genres: Comedy. Tagline:  Overview: A man finds the best motivation to secure and save his town: making an independent Mexican film.. Production companies: Cinépolis Producciones. Origin country: ['MX']. Production contries: Mexico
 
-### Mufasa: The Lion King:
-Title: Mufasa: The Lion King (2024). Genres: Adventure, Family, Animation. Tagline:  Overview: Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.. Production companies: Walt Disney Pictures. Origin country: ['US']. Production contries: United States of America
+### The Storm:
+Title: The Storm (2026). Genres: Comedy, Drama. Tagline:  Overview: When a storm traps old university pals at a luxury lodge, their civilized birthday bash spirals into a cyclone of betrayals, grudges and unfiltered chaos.. Production companies: Warner Bros. International Television Production Sweden. Origin country: ['SE']. Production contries: Sweden
 
-### Turning Red:
-Title: Turning Red (2022). Genres: Animation, Family, Comedy, Fantasy. Tagline:  Overview: Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.. Production companies: Pixar. Origin country: ['US']. Production contries: United States of America
+### The Love Hypothesis:
+Title: The Love Hypothesis (2026). Genres: Romance, Comedy. Tagline:  Overview: Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.. Production companies: MRC, Amazon MGM Studios, The Cantillon Company. Origin country: ['US']. Production contries: United States of America
 
-### Migration:
-Title: Migration (2023). Genres: Family, Comedy, Adventure, Animation. Tagline:  Overview: After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.. Production companies: Universal Pictures, Illumination. Origin country: ['US']. Production contries: United States of America
+### The Devil Wears Prada 2:
+Title: The Devil Wears Prada 2 (2026). Genres: Comedy, Drama. Tagline:  Overview: Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.. Production companies: 20th Century Studios, Wendy Finerman Productions. Origin country: ['US']. Production contries: United States of America
 
-### The SpongeBob Movie: Sponge Out of Water:
-Title: The SpongeBob Movie: Sponge Out of Water (2015). Genres: Adventure, Animation, Comedy, Family, Fantasy. Tagline:  Overview: Evil pirate Burger Beard is in search of the final page of a magical book that makes any evil plan he writes in it come true, but the final page happens to be the Krabby Patty secret formula. When Burger Beard endangers Bikini Bottom, SpongeBob, Patrick, Mr. Krabs, Squidward, Sandy, and Plankton must embark on a quest to retrieve the recipe and save their city...a quest that takes them to the surface world and transforms them into superheroes.. Production companies: Paramount Animation, Paramount Pictures, Nickelodeon Movies, United Plankton Pictures, Disruption Entertainment. Origin country: ['US']. Production contries: United States of America
+### Marsupilami:
+Title: Marsupilami (2026). Genres: Adventure, Comedy, Family. Tagline:  Overview: David is tasked to deliver a mysterious package from South America, only to find out he is carrying a baby Marsupilami!. Production companies: Pathé, Dupuis, BAF Prod, TF1 Films Production, Artémis Productions, Logical Content Ventures. Origin country: ['FR']. Production contries: France, Belgium
 
-### Transformers One:
-Title: Transformers One (2024). Genres: Animation, Science Fiction, Adventure, Family. Tagline:  Overview: The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.. Production companies: Paramount Animation, di Bonaventura Pictures, DeSanto/Murphy Productions, Bay Films, New Republic Pictures, Hasbro Entertainment. Origin country: ['US']. Production contries: United States of America
+### Kung Fu Soccer:
+Title: Kung Fu Soccer (2026). Genres: Action, Comedy, Fantasy. Tagline:  Overview: Dismissed as underdogs before they even step onto the pitch, the Emei Women's Football Team enters the prestigious Supreme Invincible Cup determined to prove everyone wrong. Led by captain Shuangshuang, star striker Yulong, and mentor Xu Feng, the team combines martial arts mastery with football skill in a thrilling quest for victory. Against mounting challenges and impossible odds, they fight to make their mark and chase their championship dream.. Production companies: Shanghai Maoyan Film 上海猫眼影业, China Film Group Corporation, 深圳电影制片厂. Origin country: ['CN']. Production contries: Hong Kong, China
 
-### Frozen II:
-Title: Frozen II (2019). Genres: Family, Animation, Adventure, Comedy, Fantasy. Tagline:  Overview: Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.. Production companies: Walt Disney Animation Studios. Origin country: ['US']. Production contries: United States of America
+### The Musical:
+Title: The Musical (2026). Genres: Comedy. Tagline:  Overview: Doug, a frustrated playwright and middle school theater teacher, learns his ex is dating his nemesis, the school principal. To get revenge and cost him a Blue Ribbon Award, Doug secretly stages the most inappropriate play imaginable.. Production companies: Megamix, Unapologetic Projects, Blue Harbor Entertainment. Origin country: ['US']. Production contries: United States of America
 
-### Ice Age: Collision Course:
-Title: Ice Age: Collision Course (2016). Genres: Adventure, Animation, Family, Comedy, Science Fiction. Tagline:  Overview: Set after the events of Continental Drift, Scrat's epic pursuit of his elusive acorn catapults him outside of Earth, where he accidentally sets off a series of cosmic events that transform and threaten the planet. To save themselves from peril, Manny, Sid, Diego, and the rest of the herd leave their home and embark on a quest full of thrills and spills, highs and lows, laughter and adventure while traveling to exotic new lands and locations.. Production companies: Blue Sky Studios, 20th Century Fox Animation, 20th Century Fox. Origin country: ['US']. Production contries: United States of America
+### Promise:
+Title: Promise (2026). Genres: Fantasy, Drama. Tagline:  Overview: . Production companies: Theatre & Media Arts Department BYU. Origin country: ['US']. Production contries: United States of America
 
-### Flow:
-Title: Flow (2024). Genres: Adventure, Animation, Family, Fantasy. Tagline:  Overview: A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.. Production companies: Dream Well Studio, Sacrebleu Productions, Take Five, ARTE France Cinéma, RTBF. Origin country: ['LV']. Production contries: Latvia, Belgium, France
+### You Drive Me Crazy:
+Title: You Drive Me Crazy (2025). Genres: Comedy, Romance, Fantasy. Tagline:  Overview: Alisa moves into a spacious apartment in St. Petersburg, where the mirror starts to malfunction, showing the young lodger a parallel reality of the same apartment. Only it is not Alisa who lives in this parallel reality, but the party animal Ivan. Will the young people be able to recognize true love and will they be able to unite their worlds in order to meet in reality and simply touch each other?. Production companies: Forza Film, All Media A Start Company, Ministry of Culture of the Russian Federation. Origin country: ['RU']. Production contries: Russia
 
-### Sonic the Hedgehog 2:
-Title: Sonic the Hedgehog 2 (2022). Genres: Action, Adventure, Family, Comedy. Tagline:  Overview: After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.. Production companies: Original Film, Blur Studio, Marza Animation Planet, Paramount Pictures, SEGA, SEGA of America. Origin country: ['US']. Production contries: Japan, United States of America
+### Teenage Sex and Death at Camp Miasma:
+Title: Teenage Sex and Death at Camp Miasma (2026). Genres: Comedy, Horror, Romance. Tagline:  Overview: An ambitious director sets out to revive a faded slasher franchise, but her meeting with the film’s reclusive original star spirals into a terrifying maze of obsession, fear, and blood-soaked delusion.. Production companies: MUBI, Plan B Entertainment. Origin country: ['US']. Production contries: United Kingdom, United States of America
 
-### The SpongeBob Movie: Search for SquarePants:
-Title: The SpongeBob Movie: Search for SquarePants (2025). Genres: Adventure, Family, Animation, Comedy, Fantasy. Tagline:  Overview: Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.. Production companies: Paramount Animation, Nickelodeon Movies, Domain Entertainment, MRC. Origin country: ['US']. Production contries: United States of America
+### The Incomer:
+Title: The Incomer (2026). Genres: Comedy, Drama. Tagline:  Overview: On an Orkney isle, siblings Isla and Sandy survive by hunting seabirds, retelling the stories of their ancestors, and defending the isle from dreaded "Incomers". Their world is upended with the arrival of an awkward council worker who has come to uproot them from their homeland.. Production companies: BFI, Screen Scotland, Little Walnut Productions, Day Zero Productions, Head Gear Films, Inevitable Pictures, Keeper Pictures, Metrol Technology, Pilea Pictures. Origin country: ['IE', 'GB']. Production contries: United Kingdom, United States of America, Ireland
 
-### The Bad Guys:
-Title: The Bad Guys (2022). Genres: Action, Adventure, Animation, Comedy, Crime, Family. Tagline:  Overview: When the Bad Guys, a crew of criminal animals, are finally caught after years of heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
+### The Invite:
+Title: The Invite (2026). Genres: Comedy, Drama, Romance. Tagline:  Overview: Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?. Production companies: Annapurna Pictures, FilmNation Entertainment, Permut Presentations. Origin country: ['US']. Production contries: United States of America
 
-### Elemental:
-Title: Elemental (2023). Genres: Animation, Comedy, Family, Romance. Tagline:  Overview: In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.. Production companies: Pixar. Origin country: ['US']. Production contries: United States of America
+### Invention 13:
+Title: Invention 13 (2026). Genres: Fantasy. Tagline:  Overview: On a cold, windy night, a frustrated pianist encounters strange obstacles while trying to learn  Bach's notoriously intricate Invention 13.. Production companies: Range Media Partners, blind acrobat, Rubber Ring Films. Origin country: ['US']. Production contries: United States of America
 
-### Ralph Breaks the Internet:
-Title: Ralph Breaks the Internet (2018). Genres: Animation, Comedy, Adventure, Science Fiction, Family. Tagline:  Overview: Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the World Wide Web in search of a replacement part to save Vanellope's video game, Sugar Rush. In way over their heads, Ralph and Vanellope rely on the citizens of the internet — the netizens — to help navigate their way, including an entrepreneur named Yesss, who is the head algorithm and the heart and soul of trend-making site BuzzzTube.. Production companies: Walt Disney Animation Studios. Origin country: ['US']. Production contries: United States of America
+### The Opera!:
+Title: The Opera! (2026). Genres: Comedy, History. Tagline:  Overview: The Three Chaps; Prescott, Chogurt, and Dr. Wilbert, await to see Lady Hogsmash LIVE at The Opera. While appreciating some lobby art, a horrific travesty unfolds, leaving The Chaps to wonder if they'll make it out of The Opera House on a high note.. Production companies: SweetBogsTV. Origin country: ['US']. Production contries: United States of America
 
-### The Croods: A New Age:
-Title: The Croods: A New Age (2020). Genres: Animation, Family, Adventure, Fantasy, Comedy. Tagline:  Overview: Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
+### Oasis: Don't Look Back in Anger:
+Title: Oasis: Don't Look Back in Anger (2026). Genres: Documentary, Music. Tagline:  Overview: Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.. Production companies: Magna Studios, Sony Music Vision, Sony Music Entertainment UK. Origin country: ['GB']. Production contries: United Kingdom, United States of America
 
-### PAW Patrol: The Mighty Movie:
-Title: PAW Patrol: The Mighty Movie (2023). Genres: Adventure, Animation, Comedy, Family, Science Fiction. Tagline:  Overview: A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups.. Production companies: Nickelodeon Movies, Spin Master, Paramount Pictures. Origin country: ['US', 'CA']. Production contries: Canada, France, United States of America
+### Ready or Not: Here I Come:
+Title: Ready or Not: Here I Come (2026). Genres: Horror, Comedy. Tagline:  Overview: Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.. Production companies: Searchlight Pictures, Mythology Entertainment, Radio Silence, Big Indie Pictures, Vinson Films. Origin country: ['US']. Production contries: United States of America
 
-### Elio:
-Title: Elio (2025). Genres: Animation, Adventure, Science Fiction, Family, Comedy. Tagline:  Overview: Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.. Production companies: Pixar. Origin country: ['US']. Production contries: United States of America
+### “Wuthering Heights”:
+Title: “Wuthering Heights” (2026). Genres: Romance, Drama, History. Tagline:  Overview: Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.. Production companies: MRC, LuckyChap Entertainment, Lie Still, Warner Bros. Pictures, Domain Entertainment. Origin country: ['GB', 'US']. Production contries: United States of America, United Kingdom
 
-### The SpongeBob Movie: Search for SquarePants:
-Title: The SpongeBob Movie: Search for SquarePants (2025). Genres: Adventure, Family, Animation, Comedy, Fantasy. Tagline:  Overview: Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.. Production companies: Paramount Animation, Nickelodeon Movies, Domain Entertainment, MRC. Origin country: ['US']. Production contries: United States of America
+### LEGO Friends: Heartlake the Musical:
+Title: LEGO Friends: Heartlake the Musical (2026). Genres: Fantasy, Music, TV Movie. Tagline:  Overview: Young Daisy turns to toy bricks as she finds herself trying to fit into a new school in a new country. When she stumbles across a mysterious key, she is transported to Heartlake City where she makes new friends. But they soon require her help to save a vital local landmark – with plenty of song and dance numbers along the way.. Production companies: Final Pixel, The LEGO Group, TPC. Origin country: ['GB']. Production contries: United Kingdom, United States of America
 
-### PAW Patrol: The Mighty Movie:
-Title: PAW Patrol: The Mighty Movie (2023). Genres: Adventure, Animation, Comedy, Family, Science Fiction. Tagline:  Overview: A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups.. Production companies: Nickelodeon Movies, Spin Master, Paramount Pictures. Origin country: ['US', 'CA']. Production contries: Canada, France, United States of America
+### Haciendo amigos:
+Title: Haciendo amigos (2026). Genres: Comedy. Tagline:  Overview: Antonio and Félix, small-time thieves fleeing police after a jewelry heist, meet Eva, a theater group monitor. She mistakes Félix for Ángel, a new member. They use the confusion to hide, unaware they'll spend a week with the group.. Production companies: Sony Pictures Entertainment Iberia, Bowfinger, Esto También Pasará, Glow, Instituto de la Cinematografía y de las Artes Audiovisuales, Atresmedia Cine. Origin country: ['ES']. Production contries: Spain
 
-### Hotel Transylvania: Transformania:
-Title: Hotel Transylvania: Transformania (2022). Genres: Animation, Comedy, Family, Adventure, Fantasy. Tagline:  Overview: When Van Helsing's mysterious invention, the "Monsterfication Ray," goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it's too late, and before they drive each other crazy.. Production companies: Sony Pictures Animation, Sony Pictures, MRC, Columbia Pictures. Origin country: ['US']. Production contries: United States of America
+### The Brainstorm:
+Title: The Brainstorm (2026). Genres: Comedy. Tagline:  Overview: Rosalie tries to make a film, while her roommate and her actors keep getting in her way.. Production companies: Kino Montréal. Origin country: ['US']. Production contries: 
 
-### The Lord of the Rings: The War of the Rohirrim:
-Title: The Lord of the Rings: The War of the Rohirrim (2024). Genres: Animation, Fantasy, Adventure, Action. Tagline:  Overview: A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.. Production companies: New Line Cinema, Warner Bros. Animation, Sola Entertainment, Middle-earth Enterprises, WingNut Films, Domain Entertainment. Origin country: ['US']. Production contries: Japan, New Zealand, United States of America
+### Recep Ivedik 8:
+Title: Recep Ivedik 8 (). Genres: Comedy. Tagline:  Overview: 8th installment of Recep İvedik. Plot TBA.. Production companies: Çamaşırhane Film. Origin country: ['TR']. Production contries: Turkey
 
-### The Mitchells vs. the Machines:
-Title: The Mitchells vs. the Machines (2021). Genres: Animation, Adventure, Comedy. Tagline:  Overview: A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.. Production companies: Lord Miller, Columbia Pictures, Sony Pictures Animation, One Cool Films. Origin country: ['US']. Production contries: Hong Kong, United States of America
+### Voicemails for Isabelle:
+Title: Voicemails for Isabelle (2026). Genres: Romance, Comedy, Drama. Tagline:  Overview: A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.. Production companies: Escape Artists, Sony Pictures. Origin country: ['US']. Production contries: United States of America
 
-### Hotel Transylvania: Transformania:
-Title: Hotel Transylvania: Transformania (2022). Genres: Animation, Comedy, Family, Adventure, Fantasy. Tagline:  Overview: When Van Helsing's mysterious invention, the "Monsterfication Ray," goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it's too late, and before they drive each other crazy.. Production companies: Sony Pictures Animation, Sony Pictures, MRC, Columbia Pictures. Origin country: ['US']. Production contries: United States of America
+### Solo Mio:
+Title: Solo Mio (2026). Genres: Romance, Comedy. Tagline:  Overview: After Matt's dreams of a picturesque Italian wedding are shattered when his fiancée leaves him at the altar, he embarks on his planned honeymoon across Italy alone, immersing himself in the country's vibrant culture, food, and beauty, meeting Gia along the way.. Production companies: A Higher Standard, Nickel City Pictures, Kinnane Brothers, LB Entertainment, Angel Studios. Origin country: ['US']. Production contries: United States of America
 
-### The Boy, the Mole, the Fox and the Horse:
-Title: The Boy, the Mole, the Fox and the Horse (2022). Genres: Animation, Family, Drama, Adventure. Tagline:  Overview: The unlikely friendship of a boy, a mole, a fox and a horse traveling together in the boy's search for home.. Production companies: NoneMore Productions, Bad Robot, BBC. Origin country: ['GB']. Production contries: United Kingdom, United States of America
+### I Can Only Imagine 2:
+Title: I Can Only Imagine 2 (2026). Genres: Music, Drama. Tagline:  Overview: Following the breakout success of the song 'I Can Only Imagine', MercyMe's Bart Millard is living the dream—sold-out arenas, a devoted fanbase, and a thriving career. But behind the spotlight, Bart's past threatens the family he's built, especially the fragile bond with his son Sam. When hopeful newcomer Tim Timmons joins the band for their biggest tour yet, he unknowingly brings a renewed gratitude to Bart's life through their unlikely friendship. Bart soon discovers that Tim carries hardships—and secrets—of his own, forcing him to face his past and repair his relationships with Sam and his wife Shannon before fame costs him what matters most.. Production companies: Kingdom Story Company, Mission Pictures International, Lionsgate, LD Entertainment, Kevin Downes Productions. Origin country: ['US']. Production contries: United States of America
 
-### Sing 2:
-Title: Sing 2 (2021). Genres: Animation, Comedy, Family, Music. Tagline:  Overview: Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.. Production companies: Illumination. Origin country: ['US']. Production contries: United States of America
+### JTÉPARAKONTÉ - Ophélie:
+Title: JTÉPARAKONTÉ - Ophélie (2026). Genres: Comedy. Tagline:  Overview: RAPHAËL and SAM are having an argument about things that make us special. He decides to bring her into his memories to show her why he believes he is so special.. Production companies: . Origin country: ['FR']. Production contries: 
 
-### Suzume:
-Title: Suzume (2022). Genres: Animation, Drama, Adventure, Fantasy. Tagline:  Overview: Suzume, 17, lost her mother as a little girl. On her way to school, she meets a mysterious young man. But her curiosity unleashes a calamity that endangers the entire population of Japan, and so Suzume embarks on a journey to set things right.. Production companies: CoMix Wave Films, Story, Lawson Entertainment, jeki, voque ting, KADOKAWA, Aniplex, TOHO. Origin country: ['JP']. Production contries: Japan
+### Jackass: Best and Last:
+Title: Jackass: Best and Last (2026). Genres: Action, Comedy, Documentary. Tagline:  Overview: The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.. Production companies: Paramount Pictures, MTV Entertainment Studios, Domain Entertainment, Dickhouse Productions. Origin country: ['US']. Production contries: United States of America
 
-### Trolls:
-Title: Trolls (2016). Genres: Adventure, Animation, Comedy, Family, Fantasy. Tagline:  Overview: After the monstrous Bergens invade Troll Village, Princess Poppy, the happiest Troll ever born, and overly-cautious, curmudgeonly outcast Branch set off on a journey to rescue her friends. Their mission is full of adventure and mishaps, as this mismatched duo try to tolerate each other long enough to get the job done.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
+### Ebenezer:
+Title: Ebenezer (2026). Genres: Fantasy, Comedy. Tagline:  Overview: An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.. Production companies: Paramount Pictures, Domain Entertainment, Wattsco, IN.2 FILM, Black Label Media. Origin country: ['US', 'GB']. Production contries: United States of America, United Kingdom
 
-### DC League of Super-Pets:
-Title: DC League of Super-Pets (2022). Genres: Family, Comedy, Adventure, Animation, Science Fiction, Action. Tagline:  Overview: When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the superheroes.. Production companies: Warner Animation Group, Seven Bucks Productions, Animal Logic, DC. Origin country: ['US']. Production contries: United States of America, Canada
+### Tiny Fugitives:
+Title: Tiny Fugitives (2026). Genres: Comedy. Tagline:  Overview: A reckless group of twelve year olds set out on a mission to spend the rest of their lives at sleepaway camp. They'll just have to get past Bob - the camp's deranged, relentless, 50-year-old lifer counselor.. Production companies: Point Grey Pictures, Tango Entertainment, Inaugural Entertainment, Public House Pictures. Origin country: ['US']. Production contries: Canada, United States of America
 
-### Resident Evil: Death Island:
-Title: Resident Evil: Death Island (2023). Genres: Action, Animation, Science Fiction, Horror. Tagline:  Overview: In San Francisco, Jill Valentine is dealing with a zombie outbreak and a new T-Virus, Leon Kennedy is on the trail of a kidnapped DARPA scientist, and Claire Redfield is investigating a monstrous fish that is killing whales in the bay. Joined by Chris Redfield and Rebecca Chambers, they discover the trail of clues from their separate cases all converge on the same location, Alcatraz Island, where a new evil has taken residence and awaits their arrival.. Production companies: Capcom, Quebico, Sony Pictures, Sammy, Robot Communications, KADOKAWA, TMS Entertainment. Origin country: ['JP']. Production contries: Japan
+### Happy Gilmore 2:
+Title: Happy Gilmore 2 (2025). Genres: Comedy. Tagline:  Overview: Happy Gilmore isn't done with golf — not by a long shot. Since his retirement after his first Tour Championship win, Gilmore returns to finance his daughter's ballet classes.. Production companies: Happy Madison Productions. Origin country: ['US']. Production contries: United States of America
 
-### The Ice Age Adventures of Buck Wild:
-Title: The Ice Age Adventures of Buck Wild (2022). Genres: Animation, Comedy, Family, Adventure. Tagline:  Overview: The fearless one-eyed weasel Buck teams up with mischievous possum brothers Crash & Eddie as they head off on a new adventure into Buck's home: The Dinosaur World.. Production companies: Bardel Entertainment, Walt Disney Pictures. Origin country: ['US']. Production contries: Canada, United States of America
+### A Big Bold Beautiful Journey:
+Title: A Big Bold Beautiful Journey (2025). Genres: Romance, Fantasy, Drama. Tagline:  Overview: Sarah and David are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures.. Production companies: Imperative Entertainment, 30WEST, Columbia Pictures, Chapel Place Productions, Tempo Basho, Original Films, TSG Entertainment. Origin country: ['IE', 'US']. Production contries: United States of America, Ireland
 
-### Robot Dreams:
-Title: Robot Dreams (2023). Genres: Animation, Drama, Comedy, Science Fiction. Tagline:  Overview: A lonely dog's friendship with his robot companion takes a sad turn when an unexpected malfunction forces him to abandon Robot at the beach. Will Dog ever meet Robot again?. Production companies: Arcadia Motion Pictures, LokizFilms, Noodles Production, Les films du Worso. Origin country: ['ES']. Production contries: France, Spain
+### Dream Scenario:
+Title: Dream Scenario (2023). Genres: Comedy, Fantasy. Tagline:  Overview: Hapless family man Paul Matthews finds his life turned upside down when millions of strangers suddenly start seeing him in their dreams. But when his nighttime appearances take a nightmarish turn, Paul is forced to navigate his newfound stardom.. Production companies: A24, Square Peg, Saturn Films. Origin country: ['US']. Production contries: United States of America
 
-### Luck:
-Title: Luck (2022). Genres: Animation, Adventure, Comedy, Fantasy, Family. Tagline:  Overview: Suddenly finding herself in the never-before-seen Land of Luck, the unluckiest person in the world must unite with the magical creatures there to turn her luck around.. Production companies: Skydance Animation, Skydance Animation East, Skydance Animation. Origin country: ['US']. Production contries: Spain, United States of America
+### You're Cordially Invited:
+Title: You're Cordially Invited (2025). Genres: Comedy, Romance. Tagline:  Overview: When two weddings are accidentally booked on the same day at the same venue, each bridal party is challenged with preserving their family's special moment while making the most of the unanticipated tight quarters. In a hilarious battle of determination and grit, the father of the bride and sister of the other bride chaotically go head-to-head as they stop at nothing to uphold an unforgettable celebration for their loved ones.. Production companies: Amazon MGM Studios, Big Indie Pictures, Gloria Sanchez Productions, Hello Sunshine, Stoller Global Solutions. Origin country: ['US']. Production contries: United States of America
 
-### The Boss Baby: Family Business:
-Title: The Boss Baby: Family Business (2021). Genres: Animation, Comedy, Adventure, Family. Tagline:  Overview: The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
+### Office Romance:
+Title: Office Romance (2026). Genres: Romance, Comedy. Tagline:  Overview: Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.. Production companies: Ryder Picture Company, Nuyorican Productions, For the Table, Hey Buddy, Netflix. Origin country: ['US']. Production contries: United States of America
 
-### Trolls Band Together:
-Title: Trolls Band Together (2023). Genres: Animation, Family, Music, Fantasy, Comedy, Adventure. Tagline:  Overview: When Branch's brother, Floyd, is kidnapped for his musical talents by a pair of nefarious pop-star villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop-culture obscurity.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
+### You, Me & Tuscany:
+Title: You, Me & Tuscany (2026). Genres: Romance, Comedy. Tagline:  Overview: When a woman crashes at an empty Italian villa, posing as the owner's fiancée, she discovers an unexpected romance that could transform her life.. Production companies: Will Packer Productions, Universal Pictures. Origin country: ['US']. Production contries: United States of America, Italy
 
-### Isle of Dogs:
-Title: Isle of Dogs (2018). Genres: Adventure, Comedy, Animation. Tagline:  Overview: In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island used as a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.. Production companies: Studio Babelsberg, American Empirical Pictures, Indian Paintbrush, Scott Rudin Productions. Origin country: ['US']. Production contries: United States of America, Germany
+### Little Brother:
+Title: Little Brother (2026). Genres: Comedy. Tagline:  Overview: A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic "little brother" suddenly reappears.. Production companies: Middle Child Pictures. Origin country: ['US']. Production contries: United States of America
 
-### Miraculous: Ladybug & Cat Noir, The Movie:
-Title: Miraculous: Ladybug & Cat Noir, The Movie (2023). Genres: Animation, Fantasy, Action, Romance, Family. Tagline:  Overview: After a guardian of magical jewels turns an awkward girl and a popular boy into superheroes, they can never reveal their identities — even to each other.. Production companies: The Awakening Production, SND, Fantawild, Zag Animation Studios, ON Animation Studios. Origin country: ['FR']. Production contries: China, France, Canada
+### Good Fortune:
+Title: Good Fortune (2025). Genres: Comedy, Fantasy. Tagline:  Overview: A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist.. Production companies: Lionsgate, Media Capital Technologies, Garam Films, Keep Your Head Productions, Alan Yang Pictures. Origin country: ['US']. Production contries: United States of America
 
-### The Boy and the Heron:
-Title: The Boy and the Heron (2023). Genres: Animation, Fantasy, Drama. Tagline:  Overview: While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the "long-awaited one.". Production companies: Studio Ghibli. Origin country: ['JP']. Production contries: Japan
+### The Life of Chuck:
+Title: The Life of Chuck (2025). Genres: Drama, Fantasy. Tagline:  Overview: In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experiences the wonder of love, the heartbreak of loss, and the multitudes contained in all of us.. Production companies: Intrepid Pictures, Red Room Pictures, QWGmire. Origin country: ['US']. Production contries: United States of America
 
-### Ruby Gillman, Teenage Kraken:
-Title: Ruby Gillman, Teenage Kraken (2023). Genres: Animation, Family, Fantasy, Comedy. Tagline:  Overview: Ruby Gillman, a sweet and awkward high school student, discovers she's a direct descendant of the warrior kraken queens. The kraken are sworn to protect the oceans of the world against the vain, power-hungry mermaids. Destined to inherit the throne from her commanding grandmother, Ruby must use her newfound powers to protect those she loves most.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
-
-### PAW Patrol: The Movie:
-Title: PAW Patrol: The Movie (2021). Genres: Action, Adventure, Animation, Comedy, Family. Tagline:  Overview: Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.. Production companies: Nickelodeon Movies, Paramount Pictures, Mikros Image, Spin Master, Mikros Animation. Origin country: ['US']. Production contries: Canada, France, United States of America
-
-### Lightyear:
-Title: Lightyear (2022). Genres: Animation, Science Fiction, Family, Adventure. Tagline:  Overview: Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.. Production companies: Pixar. Origin country: ['US']. Production contries: United States of America
-
-### DC League of Super-Pets:
-Title: DC League of Super-Pets (2022). Genres: Family, Comedy, Adventure, Animation, Science Fiction, Action. Tagline:  Overview: When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the superheroes.. Production companies: Warner Animation Group, Seven Bucks Productions, Animal Logic, DC. Origin country: ['US']. Production contries: United States of America, Canada
-
-### Miraculous World: London, at the Edge of Time:
-Title: Miraculous World: London, at the Edge of Time (2024). Genres: Animation, Family, Action, Adventure, Fantasy. Tagline:  Overview: To save the future from a terrible fate, Marinette becomes Chronobug and teams up with Bunnyx to defeat a mysterious opponent who travels through time.. Production companies: ZAG Entertainment, Method Animation. Origin country: ['FR']. Production contries: France
-
-### Robot Dreams:
-Title: Robot Dreams (2023). Genres: Animation, Drama, Comedy, Science Fiction. Tagline:  Overview: A lonely dog's friendship with his robot companion takes a sad turn when an unexpected malfunction forces him to abandon Robot at the beach. Will Dog ever meet Robot again?. Production companies: Arcadia Motion Pictures, LokizFilms, Noodles Production, Les films du Worso. Origin country: ['ES']. Production contries: France, Spain
-
-### Sausage Party:
-Title: Sausage Party (2016). Genres: Adventure, Animation, Comedy, Fantasy. Tagline:  Overview: Hot dog Frank leads a group of supermarket products on a quest to discover the truth about their existence and what really happens when they're chosen to leave the grocery store.. Production companies: Columbia Pictures, Annapurna Pictures, Nitrogen Studios Canada, Point Grey Pictures. Origin country: ['US']. Production contries: United States of America, Canada
-
-### Ron's Gone Wrong:
-Title: Ron's Gone Wrong (2021). Genres: Animation, Science Fiction, Family, Comedy. Tagline:  Overview: In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.. Production companies: Locksmith Animation, TSG Entertainment, DNEG. Origin country: ['US', 'GB']. Production contries: United Kingdom, United States of America
-
-### Teenage Mutant Ninja Turtles: Mutant Mayhem:
-Title: Teenage Mutant Ninja Turtles: Mutant Mayhem (2023). Genres: Animation, Comedy, Action, Science Fiction. Tagline:  Overview: After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Their new friend April O'Neil helps them take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.. Production companies: Paramount Pictures, Nickelodeon Movies, Point Grey Pictures, Cinesite Animation, Mikros Animation. Origin country: ['US']. Production contries: Canada, France, United States of America
-
-### Strange World:
-Title: Strange World (2022). Genres: Animation, Family, Adventure, Fantasy, Science Fiction. Tagline:  Overview: A journey deep into an uncharted and treacherous land, where fantastical creatures await the legendary Clades—a family of explorers whose differences threaten to topple their latest, and by far most crucial, mission.. Production companies: Walt Disney Animation Studios. Origin country: ['US']. Production contries: United States of America
-
-### Miraculous World: London, at the Edge of Time:
-Title: Miraculous World: London, at the Edge of Time (2024). Genres: Animation, Family, Action, Adventure, Fantasy. Tagline:  Overview: To save the future from a terrible fate, Marinette becomes Chronobug and teams up with Bunnyx to defeat a mysterious opponent who travels through time.. Production companies: ZAG Entertainment, Method Animation. Origin country: ['FR']. Production contries: France
-
-### Alvin and the Chipmunks: Chipwrecked:
-Title: Alvin and the Chipmunks: Chipwrecked (2011). Genres: Comedy, Fantasy, Family, Music, Animation. Tagline:  Overview: Playing around while aboard a cruise ship, the Chipmunks and Chipettes accidentally go overboard and end up marooned in a tropical paradise. They discover their new turf is not as deserted as it seems.. Production companies: Fox 2000 Pictures, 20th Century Fox, Regency Enterprises, Dune Entertainment, Bagdasarian Productions. Origin country: ['US']. Production contries: United States of America
-
-### Chicken Run: Dawn of the Nugget:
-Title: Chicken Run: Dawn of the Nugget (2023). Genres: Family, Animation, Adventure, Comedy. Tagline:  Overview: A band of fearless chickens flock together to save poultry-kind from an unsettling new threat: a nearby farm that's cooking up something suspicious.. Production companies: Aardman. Origin country: ['GB']. Production contries: United Kingdom
-
-### Tom & Jerry:
-Title: Tom & Jerry (2021). Genres: Comedy, Family, Animation. Tagline:  Overview: Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.. Production companies: Warner Animation Group, Turner Entertainment Co., The Story Company, Warner Bros. Pictures. Origin country: ['US']. Production contries: United States of America
-
-### Chicken Run: Dawn of the Nugget:
-Title: Chicken Run: Dawn of the Nugget (2023). Genres: Family, Animation, Adventure, Comedy. Tagline:  Overview: A band of fearless chickens flock together to save poultry-kind from an unsettling new threat: a nearby farm that's cooking up something suspicious.. Production companies: Aardman. Origin country: ['GB']. Production contries: United Kingdom
-
-### Black Clover: Sword of the Wizard King:
-Title: Black Clover: Sword of the Wizard King (2023). Genres: Animation, Fantasy, Action, Adventure. Tagline:  Overview: As a lionhearted boy who can't wield magic strives for the title of Wizard King, four banished Wizard Kings of yore return to crush the Clover Kingdom.. Production companies: Pierrot, Bandai Namco Entertainment, MBS, TV Tokyo, avex pictures, Shueisha. Origin country: ['JP']. Production contries: Japan
-
-### Clifford the Big Red Dog:
-Title: Clifford the Big Red Dog (2021). Genres: Family, Adventure, Comedy, Fantasy. Tagline:  Overview: As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.. Production companies: Paramount Pictures, Entertainment One, New Republic Pictures, Scholastic Entertainment, The Kerner Entertainment Company. Origin country: ['US']. Production contries: Canada, United States of America
-
-### Ruby Gillman, Teenage Kraken:
-Title: Ruby Gillman, Teenage Kraken (2023). Genres: Animation, Family, Fantasy, Comedy. Tagline:  Overview: Ruby Gillman, a sweet and awkward high school student, discovers she's a direct descendant of the warrior kraken queens. The kraken are sworn to protect the oceans of the world against the vain, power-hungry mermaids. Destined to inherit the throne from her commanding grandmother, Ruby must use her newfound powers to protect those she loves most.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
-
-### Clifford the Big Red Dog:
-Title: Clifford the Big Red Dog (2021). Genres: Family, Adventure, Comedy, Fantasy. Tagline:  Overview: As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.. Production companies: Paramount Pictures, Entertainment One, New Republic Pictures, Scholastic Entertainment, The Kerner Entertainment Company. Origin country: ['US']. Production contries: Canada, United States of America
-
-### The SpongeBob Movie: Sponge on the Run:
-Title: The SpongeBob Movie: Sponge on the Run (2020). Genres: Adventure, Animation, Comedy, Family, Fantasy. Tagline:  Overview: When his best friend Gary is suddenly snatched away, SpongeBob takes Patrick on a madcap mission far beyond Bikini Bottom to save their pink-shelled pal.. Production companies: United Plankton Pictures, Nickelodeon Movies, Paramount Animation, Paramount Pictures, MRC, Mikros Image, Mikros Animation. Origin country: ['US']. Production contries: United States of America, France, Canada
+### The Ugly Stepsister:
+Title: The Ugly Stepsister (2025). Genres: Horror, Comedy, Drama. Tagline:  Overview: In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, Agnes, and she will go to any length to catch the Prince’s eye.. Production companies: Mer Film, Lava Films, MOTOR, Scanbox Production, Zentropa International Sweden, Mediefondet Zefyr, Film i Väst. Origin country: ['NO']. Production contries: Denmark, Norway, Poland, Sweden

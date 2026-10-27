@@ -41,7 +41,7 @@ def label_cluster(df_cluster):
     )
 
     response = client.models.generate_content(
-        model="gemini-3.1-flash-lite",
+        model="gemini-3-flash-preview",
         contents=prompt
     )
     return response.text
@@ -50,7 +50,11 @@ def label_all_clusters(df, clusters):
     labels = []
     for c in tqdm.tqdm(np.unique(clusters), desc="auto-labeling movie clusters", leave=True):
         df_cluster = df.iloc[clusters == c]
-        labels.append(label_cluster(df_cluster))
+        try:
+            labels.append(label_cluster(df_cluster))
+        except:
+            print(f"early stopping at cluster c={c}")
+            return labels
     return labels
 
 

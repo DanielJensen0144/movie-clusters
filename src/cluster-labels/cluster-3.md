@@ -1,111 +1,186 @@
-# 1. **Modern Blockbusters**
+# 1. **Thematic Label**: High-Stakes Tactical Action
 
-### 2. These films are united by being widely released, high-profile mainstream productions from the late 2010s that span diverse genres but share a focus on high-production value, celebrity-driven storytelling, and broad commercial appeal.
+### 2. **Explanation**: This cluster is defined by intense, mission-driven thrillers featuring elite operatives, ex-soldiers, or hardened professionals forced into high-octane scenarios involving personal vengeance, family protection, or the dismantling of complex conspiracies.
 
 
 *Movies in cluster:*
 
-### Once Upon a Time... in Hollywood:
-Title: Once Upon a Time... in Hollywood (2019). Genres: Comedy, Drama, Thriller. Tagline:  Overview: Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…. Production companies: Heyday Films, Columbia Pictures, Bona Film Group. Origin country: ['US']. Production contries: China, United Kingdom, United States of America
+### Masterplan:
+Title: Masterplan (2026). Genres: Action, Thriller. Tagline:  Overview: When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.. Production companies: Amazon MGM Studios, Gaumont. Origin country: ['FR', 'US']. Production contries: France, United States of America
 
-### Parasite:
-Title: Parasite (2019). Genres: Comedy, Thriller, Drama. Tagline:  Overview: All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.. Production companies: Barunson E&A. Origin country: ['KR']. Production contries: South Korea
+### The Fix:
+Title: The Fix (2026). Genres: Action, Thriller. Tagline:  Overview: Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.. Production companies: Astral Future, Dreamtime Entertainment, Oakhurst Entertainment, BondIt Media Capital, Latigo Films, Blue Rider Pictures, Rabbits Black, Thomasville Pictures, Eyevox Entertainment. Origin country: ['US']. Production contries: United States of America
 
-### Joker:
-Title: Joker (2019). Genres: Crime, Thriller, Drama. Tagline:  Overview: During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.. Production companies: Warner Bros. Pictures, Joint Effort, Village Roadshow Pictures, Bron Studios, DC Films. Origin country: ['US']. Production contries: Canada, United States of America
+### Runner:
+Title: Runner (2026). Genres: Action, Comedy. Tagline:  Overview: A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.. Production companies: Broken Road Productions, AllyCat Entertainment, Nickel City Pictures, A Higher Standard, G2 Dispatch, International Media Funds Management, Bright White Light, 2521 Entertainment. Origin country: ['US']. Production contries: United States of America, Australia, United Kingdom
 
-### Ford v Ferrari:
-Title: Ford v Ferrari (2019). Genres: Drama, History, Action. Tagline:  Overview: American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.. Production companies: 20th Century Fox, TSG Entertainment, Chernin Entertainment, Turnpike Films. Origin country: ['US']. Production contries: United States of America
+### Sacrifice:
+Title: Sacrifice (2026). Genres: Adventure, Comedy, Action. Tagline:  Overview: During a star-studded charity gala brimming with celebrities, billionaires, and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.. Production companies: Mid March Media, Heretic, Iconoclast, Film4 Productions, Head Gear Films, Metrol Technology, RocketScience, Solent, ERT. Origin country: ['FR']. Production contries: France, Greece, Cyprus, United Kingdom
 
-### Little Women:
-Title: Little Women (2019). Genres: Drama, Romance. Tagline:  Overview: Four sisters come of age in America in the aftermath of the Civil War.. Production companies: Columbia Pictures, Regency Enterprises, Pascal Pictures. Origin country: ['US']. Production contries: United States of America
+### The Mongoose:
+Title: The Mongoose (2026). Genres: Action, Thriller. Tagline:  Overview: A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.. Production companies: Code Entertainment, The Solution. Origin country: ['US']. Production contries: United States of America
 
-### 1917:
-Title: 1917 (2019). Genres: War, Drama, History. Tagline:  Overview: At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.. Production companies: DreamWorks Pictures, Reliance Entertainment, New Republic Pictures, Neal Street Productions, Mogambo Films. Origin country: ['US']. Production contries: United States of America, United Kingdom, Spain, India
+### Jailer 2:
+Title: Jailer 2 (2026). Genres: Action, Comedy. Tagline:  Overview: When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new enemies to protect his home.. Production companies: Sun Pictures. Origin country: ['IN']. Production contries: India
 
-### A Star Is Born:
-Title: A Star Is Born (2018). Genres: Music, Drama, Romance. Tagline:  Overview: Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.. Production companies: Warner Bros. Pictures, Live Nation Studios, Metro-Goldwyn-Mayer, Peters Entertainment, Gerber Pictures, Joint Effort. Origin country: ['US']. Production contries: United States of America
+### The Florist:
+Title: The Florist (2026). Genres: Action, Thriller. Tagline:  Overview: A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witnesses to police corruption.. Production companies: CaliWood Pictures, BondIt Media Capital, Buffalo 8, Volcanic Films, Film Bridge International, Midwest. Origin country: ['US']. Production contries: Italy, United States of America
 
-### The Lion King:
-Title: The Lion King (2019). Genres: Adventure, Drama, Family, Animation. Tagline:  Overview: Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.. Production companies: Walt Disney Pictures, Fairview Entertainment. Origin country: ['US']. Production contries: United States of America
+### Mutiny:
+Title: Mutiny (2026). Genres: Action, Thriller. Tagline:  Overview: After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.. Production companies: Punch Palace Productions, MadRiver Pictures. Origin country: ['US']. Production contries: United Kingdom, United States of America
 
-### Fast & Furious Presents: Hobbs & Shaw:
-Title: Fast & Furious Presents: Hobbs & Shaw (2019). Genres: Action, Adventure, Comedy. Tagline:  Overview: Ever since US Diplomatic Security Service Agent Hobbs and lawless outcast Shaw first faced off, they just have traded smack talk and body blows. But when cyber-genetically enhanced anarchist Brixton's ruthless actions threaten the future of humanity, they join forces to defeat him.. Production companies: Chris Morgan Productions, Seven Bucks Productions, Universal Pictures. Origin country: ['US']. Production contries: United States of America
+### Heart of the Beast:
+Title: Heart of the Beast (2026). Genres: Adventure, Thriller. Tagline:  Overview: After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.. Production companies: Paramount Pictures, Wild Chickens Productions, Temple Hill Entertainment, Domain Entertainment, GulfStream Pictures, Kino World. Origin country: ['US']. Production contries: United States of America
 
-### Jumanji: Welcome to the Jungle:
-Title: Jumanji: Welcome to the Jungle (2017). Genres: Adventure, Comedy, Fantasy. Tagline:  Overview: Four teenagers in detention discover an old video game console with a game they’ve never heard of. When they decide to play, they are immediately sucked into the jungle world of Jumanji in the bodies of their avatars. They’ll have to complete the adventure of their lives filled with fun, thrills and danger or be stuck in the game forever!. Production companies: Matt Tolmach Productions, Seven Bucks Productions, Columbia Pictures. Origin country: ['US']. Production contries: United States of America
+### Onslaught:
+Title: Onslaught (2026). Genres: Action, Horror, Thriller. Tagline:  Overview: When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.. Production companies: A24, Ryder Picture Company, Lyrical Media, Breakaway Civilization, 828 Productions. Origin country: ['US']. Production contries: United States of America
 
-### The Greatest Showman:
-Title: The Greatest Showman (2017). Genres: Drama. Tagline:  Overview: The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.. Production companies: Chernin Entertainment, 20th Century Fox, TSG Entertainment, Laurence Mark Productions. Origin country: ['US']. Production contries: United States of America
+### One Last Shot:
+Title: One Last Shot (2026). Genres: Action, Thriller. Tagline:  Overview: Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.. Production companies: Sky Cinema, Signature Films. Origin country: ['US']. Production contries: United Kingdom, United States of America
 
-### Sonic the Hedgehog:
-Title: Sonic the Hedgehog (2020). Genres: Action, Science Fiction, Comedy, Family. Tagline:  Overview: Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth. That is, until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it’s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic’s unique power for world domination.. Production companies: Original Film, Blur Studio, Marza Animation Planet, Paramount Pictures, SEGA, SEGA of America. Origin country: ['US']. Production contries: Japan, United States of America
+### Zip Wire:
+Title: Zip Wire (2026). Genres: Action, Thriller. Tagline:  Overview: When her ground-breaking pharmaceutical discovery is stolen and partner murdered, researcher Amy must face her fear of heights to escape nefarious attackers, with the only path to salvation being a treacherous aerial runway. To outsmart the mysterious hostiles, she has to summon every ounce of courage to protect the world-changing scientific discovery — and herself — before it's too late.. Production companies: Scanner-Rhodes Productions, Untitled Entertainment, Reinvent Yellow. Origin country: ['DK', 'US']. Production contries: Denmark, United States of America, United Kingdom
 
-### The Lighthouse:
-Title: The Lighthouse (2019). Genres: Drama, Fantasy, Thriller. Tagline:  Overview: Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.. Production companies: RT Features, Parts & Labor, A24, Regency Enterprises. Origin country: ['US']. Production contries: Brazil, United States of America
+### Legend of the White Dragon:
+Title: Legend of the White Dragon (2026). Genres: Action, Fantasy. Tagline:  Overview: Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.. Production companies: Bat in the Sun Productions, Paradox House. Origin country: ['US']. Production contries: United States of America
 
-### The Greatest Showman:
-Title: The Greatest Showman (2017). Genres: Drama. Tagline:  Overview: The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.. Production companies: Chernin Entertainment, 20th Century Fox, TSG Entertainment, Laurence Mark Productions. Origin country: ['US']. Production contries: United States of America
+### The Wrecking Crew:
+Title: The Wrecking Crew (2026). Genres: Action, Comedy, Crime, Mystery. Tagline:  Overview: Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.. Production companies: Amazon MGM Studios, On the Roam, Dogbone Entertainment, Henness Ridge Entertainment, 6th & Idaho Motion Picture Company, Reunion Pacific Entertainment. Origin country: ['US']. Production contries: United States of America, Canada
 
-### Sonic the Hedgehog:
-Title: Sonic the Hedgehog (2020). Genres: Action, Science Fiction, Comedy, Family. Tagline:  Overview: Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth. That is, until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it’s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic’s unique power for world domination.. Production companies: Original Film, Blur Studio, Marza Animation Planet, Paramount Pictures, SEGA, SEGA of America. Origin country: ['US']. Production contries: Japan, United States of America
+### Angel and the Badman:
+Title: Angel and the Badman (2026). Genres: Western, Action, Adventure, Romance. Tagline:  Overview: A wounded outlaw finds unexpected mercy in the care of a rancher's daughter. The hope of love pulls him toward a different life until the law, and his violent past, close in on his new home. Now he must choose the kind of man he'll become.. Production companies: Angel Studios. Origin country: ['US']. Production contries: United States of America
 
-### Jumanji: The Next Level:
-Title: Jumanji: The Next Level (2019). Genres: Adventure, Comedy, Fantasy. Tagline:  Overview: As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.. Production companies: Columbia Pictures, Seven Bucks Productions, Matt Tolmach Productions, The Detective Agency. Origin country: ['US']. Production contries: United States of America
+### The Shadow's Edge:
+Title: The Shadow's Edge (2025). Genres: Action, Crime, Drama, Thriller. Tagline:  Overview: Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.. Production companies: iQIYI Pictures （重复 同 iQiyi Motion Pictures）, Tao Piao Piao 淘票票, Hairun Pictures Company, Dong Fang Chen Xiang. Origin country: ['CN', 'HK']. Production contries: China, Hong Kong
 
-### The Secret Life of Walter Mitty:
-Title: The Secret Life of Walter Mitty (2013). Genres: Adventure, Comedy, Drama, Fantasy. Tagline:  Overview: A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.. Production companies: Samuel Goldwyn Films, Red Hour, New Line Cinema, Big Screen Productions, Down Productions, Ingenious Media, 20th Century Fox, TSG Entertainment. Origin country: ['US']. Production contries: United Kingdom, United States of America
+### Your Mother Your Mother Your Mother:
+Title: Your Mother Your Mother Your Mother (2026). Genres: Action, Crime, Drama. Tagline:  Overview: Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within.. Production companies: Two & Two Pictures, Orion Pictures. Origin country: ['US']. Production contries: United States of America, United Kingdom
 
-### Jumanji: The Next Level:
-Title: Jumanji: The Next Level (2019). Genres: Adventure, Comedy, Fantasy. Tagline:  Overview: As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.. Production companies: Columbia Pictures, Seven Bucks Productions, Matt Tolmach Productions, The Detective Agency. Origin country: ['US']. Production contries: United States of America
+### The Death of Robin Hood:
+Title: The Death of Robin Hood (2026). Genres: Adventure, Drama, Action. Tagline:  Overview: Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.. Production companies: Lyrical Media, Ryder Picture Company, Northern Ireland Screen. Origin country: ['US']. Production contries: United States of America, United Kingdom
 
-### Godzilla: King of the Monsters:
-Title: Godzilla: King of the Monsters (2019). Genres: Science Fiction, Action. Tagline:  Overview: Follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species, thought to be mere myths, rise again, they all vie for supremacy, leaving humanity's very existence hanging in the balance.. Production companies: Legendary Pictures, Huahua Media, TOHO. Origin country: ['US']. Production contries: China, Japan, United States of America
+### Facing El Chapo:
+Title: Facing El Chapo (2026). Genres: Crime, Action, Thriller. Tagline:  Overview: Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.. Production companies: Draco Films. Origin country: ['MX']. Production contries: Mexico
 
-### The Secret Life of Walter Mitty:
-Title: The Secret Life of Walter Mitty (2013). Genres: Adventure, Comedy, Drama, Fantasy. Tagline:  Overview: A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.. Production companies: Samuel Goldwyn Films, Red Hour, New Line Cinema, Big Screen Productions, Down Productions, Ingenious Media, 20th Century Fox, TSG Entertainment. Origin country: ['US']. Production contries: United Kingdom, United States of America
+### War Machine:
+Title: War Machine (2026). Genres: Action, Science Fiction, Thriller. Tagline:  Overview: On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.. Production companies: Lionsgate, Hidden Pictures, Huge Film, Range Media Partners. Origin country: ['AU']. Production contries: Australia, United States of America
 
-### Bohemian Rhapsody:
-Title: Bohemian Rhapsody (2018). Genres: Music, Drama. Tagline:  Overview: Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.. Production companies: 20th Century Fox, Regency Enterprises, GK Films, TSG Entertainment. Origin country: ['US']. Production contries: United States of America
+### The Beast:
+Title: The Beast (2026). Genres: Action, Thriller. Tagline:  Overview: When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.. Production companies: Fifth Season, Unified Pictures, Bright White Light, The Beast Productions, Film 44, Nostromo Pictures, Orca Producción 3, International Media Funds Management, Night Train Media, QWGmire, Vadis Media, Daydream Studios. Origin country: ['US']. Production contries: United Kingdom, United States of America, Spain, Germany, Australia
 
-### Weathering with You:
-Title: Weathering with You (2019). Genres: Animation, Drama, Fantasy, Romance. Tagline:  Overview: The summer of his high school freshman year, Hodaka runs away from his remote island home to Tokyo, and quickly finds himself pushed to his financial and personal limits. The weather is unusually gloomy and rainy every day, as if taking its cue from his life. After many days of solitude, he finally finds work as a freelance writer for a mysterious occult magazine. Then, one day, Hodaka meets Hina on a busy street corner. This bright and strong-willed girl possesses a strange and wonderful ability: the power to stop the rain and clear the sky.. Production companies: CoMix Wave Films, Story, TOHO, KADOKAWA, jeki, Lawson Entertainment, "Weathering With You" Film Partners. Origin country: ['JP']. Production contries: Japan
+### Lion Fist:
+Title: Lion Fist (2026). Genres: Action. Tagline:  Overview: Martial arts fighter Joe goes to prison for four years and takes his wife's blame for a drug bust. After his release, he learns that his son needs expensive surgery because of a life-threatening tumor. Joe's only chance to save him: a brutal all-styles tournament with a $100,000 prize.. Production companies: Lowe Films, Quest Media. Origin country: ['US']. Production contries: United States of America, Germany
 
-### Weathering with You:
-Title: Weathering with You (2019). Genres: Animation, Drama, Fantasy, Romance. Tagline:  Overview: The summer of his high school freshman year, Hodaka runs away from his remote island home to Tokyo, and quickly finds himself pushed to his financial and personal limits. The weather is unusually gloomy and rainy every day, as if taking its cue from his life. After many days of solitude, he finally finds work as a freelance writer for a mysterious occult magazine. Then, one day, Hodaka meets Hina on a busy street corner. This bright and strong-willed girl possesses a strange and wonderful ability: the power to stop the rain and clear the sky.. Production companies: CoMix Wave Films, Story, TOHO, KADOKAWA, jeki, Lawson Entertainment, "Weathering With You" Film Partners. Origin country: ['JP']. Production contries: Japan
+### The Punisher: One Last Kill:
+Title: The Punisher: One Last Kill (2026). Genres: Action, Drama, Crime. Tagline:  Overview: As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.. Production companies: Marvel Studios, Kevin Feige Productions. Origin country: ['US']. Production contries: United States of America
 
-### Shazam!:
-Title: Shazam! (2019). Genres: Action, Comedy, Fantasy. Tagline:  Overview: A boy is given the ability to become an adult superhero in times of need with a single magic word.. Production companies: New Line Cinema, The Safran Company, Seven Bucks Productions, DC Films. Origin country: ['US']. Production contries: United States of America
+### In the Grey:
+Title: In the Grey (2026). Genres: Action, Thriller, Crime. Tagline:  Overview: A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.. Production companies: C2 Motion Picture Group, Toff Guy Films, Black Bear Pictures, Red Sea Film Foundation. Origin country: ['US']. Production contries: United Kingdom, United States of America, Saudi Arabia
 
-### Shazam!:
-Title: Shazam! (2019). Genres: Action, Comedy, Fantasy. Tagline:  Overview: A boy is given the ability to become an adult superhero in times of need with a single magic word.. Production companies: New Line Cinema, The Safran Company, Seven Bucks Productions, DC Films. Origin country: ['US']. Production contries: United States of America
+### Repo:
+Title: Repo (2026). Genres: Crime, Action, Comedy, Adventure. Tagline:  Overview: After his last job went wrong, local fixer John is trying to get out of the game. His criminal boss, Indiana Slim, refuses to give John his final payment unless he does one final job, leaving John with two options: complete one last job, or leave empty handed. Production companies: . Origin country: ['US']. Production contries: 
 
-### Jojo Rabbit:
-Title: Jojo Rabbit (2019). Genres: Comedy, War, Drama. Tagline:  Overview: Jojo, a lonely German boy during World War II has his world shaken when he learns that his single mother is hiding a Jewish girl in their home. Influenced by a buffoonish imaginary version of Adolf Hitler, he begins to question his beliefs and confront the conflict between propaganda and his own humanity.. Production companies: Fox Searchlight Pictures, Defender Films, Piki Films, TSG Entertainment. Origin country: ['US']. Production contries: New Zealand, United States of America
+### Shelter:
+Title: Shelter (2026). Genres: Action, Crime, Thriller. Tagline:  Overview: A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.. Production companies: Black Bear Pictures, Punch Palace Productions, CineMachine, Stampede Ventures. Origin country: ['GB', 'US']. Production contries: United States of America, United Kingdom
 
-### Shazam! Fury of the Gods:
-Title: Shazam! Fury of the Gods (2023). Genres: Comedy, Action, Fantasy. Tagline:  Overview: Billy Batson and his foster siblings, who transform into superheroes by saying "Shazam!", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.. Production companies: The Safran Company, New Line Cinema, DC Films. Origin country: ['US']. Production contries: United States of America
+### One Battle After Another:
+Title: One Battle After Another (2025). Genres: Thriller, Crime, Comedy. Tagline:  Overview: Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.. Production companies: Warner Bros. Pictures, Ghoulardi Film Company, Domain Entertainment. Origin country: ['US']. Production contries: United States of America
 
-### Zombieland: Double Tap:
-Title: Zombieland: Double Tap (2019). Genres: Comedy, Horror. Tagline:  Overview: Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.. Production companies: Columbia Pictures, 2.0 Entertainment, Pariah. Origin country: ['US']. Production contries: United States of America
+### The Runner:
+Title: The Runner (2026). Genres: Thriller, Action. Tagline:  Overview: Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.. Production companies: Amazon MGM Studios, Rockwood Pictures. Origin country: ['GB', 'US']. Production contries: United States of America, United Kingdom
 
-### Cats:
-Title: Cats (2019). Genres: Fantasy, Comedy, Drama. Tagline:  Overview: A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life.. Production companies: Universal Pictures, Perfect World Pictures, Working Title, Amblin Entertainment, Monumental Pictures, The Really Useful Group. Origin country: ['US']. Production contries: China, United Kingdom, United States of America
+### Rage of Stars:
+Title: Rage of Stars (2026). Genres: Action, Science Fiction, Thriller. Tagline:  Overview: A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.. Production companies: Lukra Films. Origin country: ['PL']. Production contries: Poland
 
-### After:
-Title: After (2019). Genres: Drama, Romance. Tagline:  Overview: Tessa Young is a dedicated student, dutiful daughter and loyal girlfriend to her high school sweetheart. Entering her first semester of college, Tessa's guarded world opens up when she meets Hardin Scott, a mysterious and brooding rebel who makes her question all she thought she knew about herself -- and what she wants out of life.. Production companies: CalMaple Films, Wattpad, Offspring Entertainment, Diamond Film Productions, Voltage Pictures, Frayed Pages Media. Origin country: ['US']. Production contries: United States of America
+### Ballerina:
+Title: Ballerina (2025). Genres: Action, Thriller, Crime. Tagline:  Overview: Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.. Production companies: Thunder Road, 87Eleven, Lionsgate. Origin country: ['US']. Production contries: United States of America
 
-### Marriage Story:
-Title: Marriage Story (2019). Genres: Drama. Tagline:  Overview: A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.. Production companies: Heyday Films. Origin country: ['GB']. Production contries: United Kingdom
+### Lucky Strike:
+Title: Lucky Strike (2026). Genres: Action, War. Tagline:  Overview: A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.. Production companies: Perfection Hunter Productions, Millennium Media, BondIt Media Capital. Origin country: ['US']. Production contries: United States of America
 
-### Wonder:
-Title: Wonder (2017). Genres: Family, Drama. Tagline:  Overview: The story of August Pullman – a boy with facial differences – who enters fifth grade, attending a mainstream elementary school for the first time.. Production companies: Lionsgate, Participant, Walden Media, Mandeville Films, TIK Films. Origin country: ['US']. Production contries: United States of America
+### A Working Man:
+Title: A Working Man (2025). Genres: Action, Crime, Thriller. Tagline:  Overview: Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.. Production companies: Cedar Park Entertainment, BlockFilm, Punch Palace Productions, Balboa Productions, Black Bear Pictures, Fifth Season, CAT5. Origin country: ['GB', 'US']. Production contries: United Kingdom, United States of America
 
-### Marriage Story:
-Title: Marriage Story (2019). Genres: Drama. Tagline:  Overview: A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.. Production companies: Heyday Films. Origin country: ['GB']. Production contries: United Kingdom
+### The Accountant²:
+Title: The Accountant² (2025). Genres: Mystery, Crime, Thriller. Tagline:  Overview: When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.. Production companies: Artists Equity, 51 Entertainment, Zero Gravity Management, Filmtribe. Origin country: ['US']. Production contries: United States of America
 
-### Rambo: Last Blood:
-Title: Rambo: Last Blood (2019). Genres: Action, Thriller, Drama. Tagline:  Overview: After fighting his demons for decades, John Rambo now lives in peace on his family ranch in Arizona, but his rest is interrupted when Gabriela, the granddaughter of his housekeeper María, disappears after crossing the border into Mexico to meet her biological father. Rambo, who has become a true father figure for Gabriela over the years, undertakes a desperate and dangerous journey to find her.. Production companies: Millennium Media, Templeton Media, Campbell Grobman Films, Dadi Film Group, Balboa Productions. Origin country: ['US']. Production contries: China, United States of America
+### Tom Clancy's Jack Ryan: Ghost War:
+Title: Tom Clancy's Jack Ryan: Ghost War (2026). Genres: Action, Thriller. Tagline:  Overview: Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.. Production companies: Sunday Night Productions, Paramount Pictures, Big Indie Pictures. Origin country: ['US']. Production contries: United States of America
 
-### Charlie's Angels:
-Title: Charlie's Angels (2019). Genres: Action, Adventure, Comedy. Tagline:  Overview: Elena Houghlin is a scientist, engineer and inventor of Calisto -- a sustainable energy source that will revolutionize the way people use power. It will be ready as soon as she works out the last issue, if not it could be turned into a dangerous weapon. But when the cutting edge technology is pushed to an investor before she can do that, Elena turns to the Townsend Agency for help. Now, it's up to the Angels -- Jane, Sabina, and the newly recruited Elena -- to retrieve Calisto before it can be transformed into a weapon of mass destruction.. Production companies: Columbia Pictures, Brownstone Productions, 2.0 Entertainment, The Cantillon Company. Origin country: ['US']. Production contries: United States of America
+### Apex:
+Title: Apex (2026). Genres: Action, Thriller. Tagline:  Overview: A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.. Production companies: Chernin Entertainment, Ian Bryce Productions, Secret Menu, RVK Studios. Origin country: ['US']. Production contries: United States of America, Iceland, Australia
+
+### Pretty Lethal:
+Title: Pretty Lethal (2026). Genres: Action, Thriller, Horror. Tagline:  Overview: A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.. Production companies: 87North Productions, GulfStream Pictures, Amazon MGM Studios, Tempo Productions. Origin country: ['US']. Production contries: United States of America, Hungary, United Kingdom
+
+### Mayday:
+Title: Mayday (2026). Genres: Action, Comedy. Tagline:  Overview: When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.. Production companies: Skydance Media, Maximum Effort, GoldDay. Origin country: ['US']. Production contries: United States of America
+
+### Citizen Vigilante:
+Title: Citizen Vigilante (2026). Genres: Crime, Action. Tagline:  Overview: A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.. Production companies: Event Film Distribution, Borvel Film, Bolu Filmproduktion und Verleih. Origin country: ['US']. Production contries: Germany, Croatia, United States of America
+
+### Guy Ritchie's The Covenant:
+Title: Guy Ritchie's The Covenant (2023). Genres: War, Action, Thriller. Tagline:  Overview: After an ambush, Afghan interpreter Ahmed goes to Herculean lengths to save US Army Sergeant John Kinley's life. When Kinley learns that Ahmed and his family were not given safe passage to America as promised, he must return to the war zone and repay his debt.. Production companies: STXfilms, Toff Guy Films. Origin country: ['US']. Production contries: United Kingdom, United States of America
+
+### Seven Snipers:
+Title: Seven Snipers (2026). Genres: Action, Thriller. Tagline:  Overview: When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.. Production companies: Filmbarr, Monster Pictures Studios, Head Gear Films, Screen Queensland, Metrol Technology, Kreo Films, Signature Films, Sandy Pictures. Origin country: ['AU']. Production contries: Australia, United Kingdom
+
+### The Debt Collector:
+Title: The Debt Collector (2026). Genres: Action, Thriller, Crime. Tagline:  Overview: Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization.. Production companies: Jungka Bangkok. Origin country: ['TH']. Production contries: Thailand
+
+### The Amateur:
+Title: The Amateur (2025). Genres: Thriller, Action. Tagline:  Overview: After his life is turned upside down when his wife is killed in a London terrorist attack, a brilliant but introverted CIA decoder takes matters into his own hands when his supervisors refuse to take action.. Production companies: 20th Century Studios, Hutch Parker Entertainment, Joel B. Michaels Productions, TSG Entertainment. Origin country: ['US']. Production contries: United States of America
+
+### Over Your Dead Body:
+Title: Over Your Dead Body (2026). Genres: Action, Comedy, Thriller. Tagline:  Overview: A dysfunctional couple head to a remote cabin to "reconnect", but each has secret intentions to kill the other.. Production companies: 87North Productions, XYZ Films, 74 Entertainment, IPR.VC. Origin country: ['US']. Production contries: United States of America, Norway, Finland
+
+### Above & Below:
+Title: Above & Below (2026). Genres: Thriller, Crime. Tagline:  Overview: A group of friends' dream diving vacation turns into a fight for survival when brutal criminals attack their boat in open waters.. Production companies: Capstone Pictures, AF Films, Match Point. Origin country: ['US', 'ES']. Production contries: United States of America, Spain
+
+### Motor City:
+Title: Motor City (2026). Genres: Action, Thriller, Crime, Drama. Tagline:  Overview: In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.. Production companies: Stampede Ventures, Gramercy Park Media, Peachtree Media Partners, Ace of Spades, Syndicate Entertainment, Third Man Records, Black Bear Pictures. Origin country: ['US']. Production contries: United States of America
+
+### Ghost Soldier:
+Title: Ghost Soldier (2026). Genres: Action, Thriller. Tagline:  Overview: Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.. Production companies: Columbia Pictures, Mandalay Pictures, Project X Entertainment, TSG Entertainment. Origin country: ['US']. Production contries: United States of America
+
+### Borderline:
+Title: Borderline (2026). Genres: Thriller. Tagline:  Overview: Convinced they are our secret saviors, rogue U.S. operatives abduct Mexican gang members and seed them across major American cities, unleashing criminal chaos, swaying voters by playing on nativist prejudices, and forcing law enforcement into a race to expose the plot as the escalating carnage threatens democracy itself.. Production companies: Gen1 Entertainment, LLC. Origin country: ['US']. Production contries: United States of America, Mexico
+
+### My Dearest Assassin:
+Title: My Dearest Assassin (2026). Genres: Action, Drama, Romance. Tagline:  Overview: Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.. Production companies: Sunwrite Moonact. Origin country: ['TH']. Production contries: Thailand
+
+### Play Dirty:
+Title: Play Dirty (2025). Genres: Crime, Action, Thriller. Tagline:  Overview: Expert thief Parker gets a shot at a major heist, but to pull it off he and his team must outsmart a South American dictator, the New York mob, and the world's richest man.. Production companies: Team Downey, Amazon MGM Studios. Origin country: ['US']. Production contries: United States of America
+
+### Warfare:
+Title: Warfare (2025). Genres: War, Action. Tagline:  Overview: A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.. Production companies: DNA Films, A24. Origin country: ['US']. Production contries: United Kingdom, United States of America
+
+### Normal:
+Title: Normal (2026). Genres: Action, Crime, Thriller. Tagline:  Overview: An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.. Production companies: Aperture Media Partners, QWGmire, OPE Partners, Le Foole, Tradecraft, Normal Films. Origin country: ['US']. Production contries: United States of America
+
+### Run Hide Fight: Infidels:
+Title: Run Hide Fight: Infidels (2026). Genres: Action, Thriller. Tagline:  Overview: When radical Islamist terrorists hijack a liberal college's pro-Palestine encampment, a ragtag band of red-blooded students, a security guard, and a Delta Force vet must arm up to save their clueless peers.. Production companies: The Daily Wire, Bonfire Legend, Tall Street Productions. Origin country: ['US']. Production contries: United States of America
+
+### A House of Dynamite:
+Title: A House of Dynamite (2025). Genres: Thriller. Tagline:  Overview: When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond.. Production companies: First Light, Prologue Entertainment, Kingsgate Films. Origin country: ['US']. Production contries: United States of America
+
+### Prey:
+Title: Prey (2024). Genres: Action, Thriller, Horror. Tagline:  Overview: A young couple is compelled to leave their Christian missionary station in the Kalahari Desert after being threatened with death by an extremist militant gang. After crashing their aircraft they must battle man and beast for their lives.. Production companies: The Barnum Picture Company, Green Light Pictures, Lucky 13 Productions. Origin country: ['US']. Production contries: United States of America
+
+### Vengeance:
+Title: Vengeance (2026). Genres: Action, Thriller. Tagline:  Overview: The brutal murder of the wife of “Toro,” a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.. Production companies: El Estudio, Amazon MGM Studios. Origin country: ['ES']. Production contries: United States of America, Spain
+
+### Sisu:
+Title: Sisu (2022). Genres: Action, War, Thriller. Tagline:  Overview: When an ex-soldier who discovers gold in the Lapland wilderness tries to take the loot into the city, German soldiers led by a brutal SS officer battle him.. Production companies: Subzero Film Entertainment, Good Chaos, Stage 6 Films. Origin country: ['FI']. Production contries: Finland, United Kingdom, United States of America
+
+### The Get Out:
+Title: The Get Out (2026). Genres: Action, Thriller. Tagline:  Overview: A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.. Production companies: Nickel City Pictures, A Higher Standard, G2 Dispatch, Life & Soul Pictures, Fifth Season. Origin country: ['US']. Production contries: United States of America, Australia, United Kingdom
+
+### Flight Risk:
+Title: Flight Risk (2025). Genres: Action, Thriller. Tagline:  Overview: A pilot transports a U.S. Marshal accompanying a government witness to a trial in New York. As they cross the Alaskan wilderness, tensions soar and trust is tested, as not everyone on board is who they seem.. Production companies: Davis Entertainment, Icon Productions, Hammerstone Studios, Lionsgate, Media Capital Technologies, Blue Rider Pictures. Origin country: ['US']. Production contries: United States of America
+
+### Oscar Shaw:
+Title: Oscar Shaw (2026). Genres: Action, Crime, Thriller, Western. Tagline:  Overview: After retiring from the police force, a relentless detective haunted by the tragic loss of his closest friend sets out on a perilous quest for vengeance, seeking redemption and fighting to restore justice to the streets he once swore to protect.. Production companies: . Origin country: ['US']. Production contries: 
+
+### Kill Code:
+Title: Kill Code (2026). Genres: Action, Thriller, Science Fiction. Tagline:  Overview: North America has been divided into four main quadrants. A power-hungry corporation has taken over the conventional prison system and made criminals the new law enforcers.  The owner of that corporation, nanoscientist Eion Prescott, created a nano-virus called Onyx. Which is distributed through deadly watches to criminals. First, infecting them. Then, forcing them into eliminating each other for freedom. Who can topple the corporation's entire system from within?. Production companies: Powell and Price Productions. Origin country: ['US']. Production contries: United States of America

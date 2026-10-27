@@ -1,324 +1,204 @@
-# 1. **Human Drama**
+# 1. **Thematic Label**: Blockbuster Family Quests
 
-### 2. These films are character-driven narratives that explore the complexities of human relationships, personal ambition, identity, and the emotional struggles found in both everyday life and historical settings.
+### 2. **One-Sentence Explanation**: This cluster consists of high-energy, visually vibrant adventure comedies that typically feature established franchises, toys, or video game IPs embarking on high-stakes journeys through fantastical or stylized worlds.
 
 
 *Movies in cluster:*
 
-### Don't Look Down:
-Title: Don't Look Down (2008). Genres: Drama, Romance. Tagline:  Overview: A sexy Spanish siren named Elvira schools a young man in tantric lovemaking.. Production companies: Ministère des Affaires Étrangères, Fonds Sud Cinéma, PENSA & ROCCA CINE, Orgon Films, CNC. Origin country: ['AR']. Production contries: Argentina, France
+### Trolls World Tour:
+Title: Trolls World Tour (2020). Genres: Family, Animation, Comedy, Fantasy, Adventure, Music. Tagline:  Overview: Queen Poppy and Branch make a surprising discovery — there are other Troll worlds beyond their own, and their distinct differences create big clashes between these various tribes. When a mysterious threat puts all of the Trolls across the land in danger, Poppy, Branch, and their band of friends must embark on an epic quest to create harmony among the feuding Trolls to unite them against certain doom.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
 
-### Oppenheimer:
-Title: Oppenheimer (2023). Genres: Drama, History, War. Tagline:  Overview: The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.. Production companies: Syncopy, Universal Pictures, Atlas Entertainment, Breakheart Films, Peters Creek Entertainment. Origin country: ['US']. Production contries: United Kingdom, United States of America
+### The Super Mario Bros. Movie:
+Title: The Super Mario Bros. Movie (2023). Genres: Family, Comedy, Adventure, Fantasy, Animation. Tagline:  Overview: While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.. Production companies: Universal Pictures, Illumination, Nintendo. Origin country: ['US']. Production contries: Japan, United States of America
 
-### Whiplash:
-Title: Whiplash (2014). Genres: Drama, Music, Thriller. Tagline:  Overview: Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.. Production companies: Bold Films, Blumhouse Productions, Right of Way Films. Origin country: ['US']. Production contries: United States of America
+### Spider-Man: Across the Spider-Verse:
+Title: Spider-Man: Across the Spider-Verse (2023). Genres: Animation, Action, Adventure, Science Fiction. Tagline:  Overview: After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.. Production companies: Columbia Pictures, Sony Pictures Animation, Lord Miller, Pascal Pictures, Arad Productions, Marvel Entertainment. Origin country: ['US']. Production contries: United States of America
 
-### Killers of the Flower Moon:
-Title: Killers of the Flower Moon (2023). Genres: Crime, History, Drama. Tagline:  Overview: When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.. Production companies: Apple Studios, Imperative Entertainment, Sikelia Productions, Appian Way. Origin country: ['US']. Production contries: United States of America
+### A Minecraft Movie:
+Title: A Minecraft Movie (2025). Genres: Family, Fantasy, Comedy, Adventure. Tagline:  Overview: Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.. Production companies: Warner Bros. Pictures, Legendary Pictures, Mojang Studios, Vertigo Entertainment, On the Roam, Domain Entertainment. Origin country: ['US']. Production contries: Sweden, United States of America
 
-### The Brutalist:
-Title: The Brutalist (2024). Genres: Drama. Tagline:  Overview: When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.. Production companies: Brookstreet Pictures, Kaplan Morrison, Intake Films, Andrew Lauren Productions, Lipsync Productions, Richmond Pictures, Meyohas Studio, Carte Blanche, PCE Films. Origin country: ['US']. Production contries: United Kingdom, United States of America
+### Despicable Me 2:
+Title: Despicable Me 2 (2013). Genres: Animation, Comedy, Family, Science Fiction. Tagline:  Overview: Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.. Production companies: Illumination, Universal Pictures. Origin country: ['US']. Production contries: United States of America
 
-### My Fault:
-Title: My Fault (2023). Genres: Drama, Romance, Thriller. Tagline:  Overview: Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.. Production companies: Pokeepsie Films, Amazon Studios. Origin country: ['ES']. Production contries: Spain, United States of America
+### Barbie:
+Title: Barbie (2023). Genres: Comedy, Adventure, Fantasy. Tagline:  Overview: Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.. Production companies: LuckyChap Entertainment, Heyday Films, NB/GG Pictures, Mattel, Warner Bros. Pictures. Origin country: ['US']. Production contries: United Kingdom, United States of America
 
-### The Imitation Game:
-Title: The Imitation Game (2014). Genres: History, Drama, Thriller, War. Tagline:  Overview: Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.. Production companies: Bristol Automotive, Black Bear Pictures, FilmNation Entertainment. Origin country: ['US']. Production contries: United States of America, United Kingdom
+### Toy Story 4:
+Title: Toy Story 4 (2019). Genres: Family, Comedy, Animation, Adventure. Tagline:  Overview: Woody has always been confident about his place in the world, devoted to taking care of his kid—whether that's Andy or Bonnie. But after Bonnie creates a reluctant new toy called "Forky", a road trip adventure alongside old and new friends challenges everything Woody believes about loyalty, purpose, and what it truly means to be a toy.. Production companies: Pixar. Origin country: ['US']. Production contries: United States of America
 
-### The Imitation Game:
-Title: The Imitation Game (2014). Genres: History, Drama, Thriller, War. Tagline:  Overview: Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.. Production companies: Bristol Automotive, Black Bear Pictures, FilmNation Entertainment. Origin country: ['US']. Production contries: United States of America, United Kingdom
+### Despicable Me 4:
+Title: Despicable Me 4 (2024). Genres: Animation, Comedy, Action, Science Fiction, Family. Tagline:  Overview: Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.. Production companies: Universal Pictures, Illumination. Origin country: ['US']. Production contries: United States of America
 
-### The Master and Margarita:
-Title: The Master and Margarita (2024). Genres: Fantasy, Drama. Tagline:  Overview: A struggling writer in 1930s Soviet Moscow finds his life transformed when a mysterious professor arrives with his bizarre entourage, including a wisecracking trickster, a deadly assassin, a vampire maid, and a giant talking black cat, turning the city upside down while exposing the hypocrisy of those in power.. Production companies: Mars Media Entertainment, AMedia, Profit, Kinoprime Foundation. Origin country: ['RU']. Production contries: Russia
+### Migration:
+Title: Migration (2023). Genres: Family, Comedy, Adventure, Animation. Tagline:  Overview: After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.. Production companies: Universal Pictures, Illumination. Origin country: ['US']. Production contries: United States of America
 
-### La La Land:
-Title: La La Land (2016). Genres: Comedy, Drama, Romance. Tagline:  Overview: Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.. Production companies: Summit Entertainment, Gilbert Films, Impostor Pictures, Marc Platt Productions. Origin country: ['US']. Production contries: United States of America
+### Sonic the Hedgehog 3:
+Title: Sonic the Hedgehog 3 (2024). Genres: Action, Science Fiction, Comedy, Family. Tagline:  Overview: Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.. Production companies: Paramount Pictures, Original Film, Marza Animation Planet, SEGA, Blur Studio, SEGA of America. Origin country: ['US']. Production contries: United States of America, Japan
 
-### The Handmaiden:
-Title: The Handmaiden (2016). Genres: Thriller, Drama, Romance. Tagline:  Overview: 1930s Korea, in the period of Japanese occupation, a new girl, Sook-hee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to steal her fortune.. Production companies: Moho Film, Yong Film, CJ Entertainment. Origin country: ['KR']. Production contries: South Korea
+### Puss in Boots: The Last Wish:
+Title: Puss in Boots: The Last Wish (2022). Genres: Animation, Adventure, Fantasy, Comedy, Family. Tagline:  Overview: Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
 
-### Challengers:
-Title: Challengers (2024). Genres: Drama, Romance. Tagline:  Overview: Tennis player turned coach Tashi has taken her husband, Art, and transformed him into a world-famous Major champion. To jolt him out of his recent losing streak, she signs him up for a "Challenger" event — close to the lowest level of pro tournament — where he finds himself standing across the net from his former best friend and Tashi's former boyfriend.. Production companies: Pascal Pictures, Why Are You Acting? Productions, Frenesy Film, Amazon MGM Studios. Origin country: ['US']. Production contries: Italy, United States of America
+### The SpongeBob Movie: Sponge Out of Water:
+Title: The SpongeBob Movie: Sponge Out of Water (2015). Genres: Adventure, Animation, Comedy, Family, Fantasy. Tagline:  Overview: Evil pirate Burger Beard is in search of the final page of a magical book that makes any evil plan he writes in it come true, but the final page happens to be the Krabby Patty secret formula. When Burger Beard endangers Bikini Bottom, SpongeBob, Patrick, Mr. Krabs, Squidward, Sandy, and Plankton must embark on a quest to retrieve the recipe and save their city...a quest that takes them to the surface world and transforms them into superheroes.. Production companies: Paramount Animation, Paramount Pictures, Nickelodeon Movies, United Plankton Pictures, Disruption Entertainment. Origin country: ['US']. Production contries: United States of America
 
-### Hacksaw Ridge:
-Title: Hacksaw Ridge (2016). Genres: Drama, History, War. Tagline:  Overview: WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.. Production companies: Summit Entertainment, Pandemonium, Cross Creek Pictures, Permut Presentations, Vendian Entertainment, Argent Pictures, IM Global, AI Film, Bliss Media, Kylin Pictures, Cosmos Filmed Entertainment. Origin country: ['AU', 'US', 'GB']. Production contries: Australia, United Kingdom, United States of America
+### The Little Mermaid:
+Title: The Little Mermaid (2023). Genres: Adventure, Family, Fantasy, Romance. Tagline:  Overview: The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy.. Production companies: Walt Disney Pictures, Lucamar Productions, Marc Platt Productions. Origin country: ['US']. Production contries: United States of America
 
-### Poor Things:
-Title: Poor Things (2023). Genres: Science Fiction, Romance, Comedy. Tagline:  Overview: Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.. Production companies: Searchlight Pictures, Film4 Productions, TSG Entertainment, Element Pictures, Limp, Fruit Tree. Origin country: ['US']. Production contries: Ireland, United Kingdom, United States of America
+### Frozen II:
+Title: Frozen II (2019). Genres: Family, Animation, Adventure, Comedy, Fantasy. Tagline:  Overview: Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.. Production companies: Walt Disney Animation Studios. Origin country: ['US']. Production contries: United States of America
 
-### The Intouchables:
-Title: The Intouchables (2011). Genres: Drama, Comedy. Tagline:  Overview: A true story of two men who should never have met – a quadriplegic aristocrat who was injured in a paragliding accident and a young man from the projects.. Production companies: Gaumont, Quad Productions, Chaocorp, Ten Films, TF1 Films Production. Origin country: ['FR']. Production contries: France
+### Sonic the Hedgehog 2:
+Title: Sonic the Hedgehog 2 (2022). Genres: Action, Adventure, Family, Comedy. Tagline:  Overview: After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.. Production companies: Original Film, Blur Studio, Marza Animation Planet, Paramount Pictures, SEGA, SEGA of America. Origin country: ['US']. Production contries: Japan, United States of America
 
-### Hidden Figures:
-Title: Hidden Figures (2016). Genres: Drama, History. Tagline:  Overview: The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history – the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.. Production companies: Fox 2000 Pictures, Levantine Films, Chernin Entertainment. Origin country: ['US']. Production contries: United States of America
+### Fantastic Beasts: The Secrets of Dumbledore:
+Title: Fantastic Beasts: The Secrets of Dumbledore (2022). Genres: Fantasy, Adventure. Tagline:  Overview: Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald's growing legion of followers.. Production companies: Warner Bros. Pictures, Heyday Films. Origin country: ['US', 'GB']. Production contries: United Kingdom, United States of America
 
-### The Help:
-Title: The Help (2011). Genres: Drama. Tagline:  Overview: Aibileen Clark is a middle-aged African-American maid who has spent her life raising white children and has recently lost her only son; Minny Jackson is an African-American maid who has often offended her employers despite her family's struggles with money and her desperate need for jobs; and Eugenia "Skeeter" Phelan is a young white woman who has recently moved back home after graduating college to find out her childhood maid has mysteriously disappeared. These three stories intertwine to explain how life in Jackson, Mississippi revolves around "the help"; yet they are always kept at a certain distance because of racial lines.. Production companies: 1492 Pictures, Harbinger Pictures. Origin country: ['US']. Production contries: United States of America
+### The Bad Guys:
+Title: The Bad Guys (2022). Genres: Action, Adventure, Animation, Comedy, Crime, Family. Tagline:  Overview: When the Bad Guys, a crew of criminal animals, are finally caught after years of heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
 
-### Call Me by Your Name:
-Title: Call Me by Your Name (2017). Genres: Romance, Drama. Tagline:  Overview: In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.. Production companies: La Cinéfacture, Frenesy Film, M.Y.R.A. Entertainment, RT Features, Water's End Productions. Origin country: ['US']. Production contries: Brazil, France, Italy, United States of America
+### Elemental:
+Title: Elemental (2023). Genres: Animation, Comedy, Family, Romance. Tagline:  Overview: In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.. Production companies: Pixar. Origin country: ['US']. Production contries: United States of America
 
-### Anatomy of a Fall:
-Title: Anatomy of a Fall (2023). Genres: Thriller, Mystery, Crime. Tagline:  Overview: A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.. Production companies: Les Films de Pierre, Les Films Pelléas, France 2 Cinéma, Auvergne-Rhône-Alpes Cinéma. Origin country: ['FR']. Production contries: France
+### Sonic the Hedgehog:
+Title: Sonic the Hedgehog (2020). Genres: Action, Science Fiction, Comedy, Family. Tagline:  Overview: Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth. That is, until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it’s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic’s unique power for world domination.. Production companies: Original Film, Blur Studio, Marza Animation Planet, Paramount Pictures, SEGA, SEGA of America. Origin country: ['US']. Production contries: Japan, United States of America
 
-### Anora:
-Title: Anora (2024). Genres: Drama, Comedy, Romance. Tagline:  Overview: A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.. Production companies: Cre Film, FilmNation Entertainment. Origin country: ['US']. Production contries: United States of America
+### Ghostbusters: Afterlife:
+Title: Ghostbusters: Afterlife (2021). Genres: Fantasy, Comedy, Adventure. Tagline:  Overview: When single mom Callie and her two kids Trevor and Phoebe arrive in a small Oklahoma town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.. Production companies: Columbia Pictures, Bron Studios, The Montecito Picture Company, Ghost Corps. Origin country: ['US']. Production contries: Canada, United States of America
 
-### Babylon:
-Title: Babylon (2022). Genres: Drama, Comedy. Tagline:  Overview: A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters in an era of unbridled decadence and depravity during Hollywood's transition from silent films to sound films in the late 1920s.. Production companies: Paramount Pictures, Marc Platt Productions, C2 Motion Picture Group, Organism Pictures, Wild Chickens Productions. Origin country: ['US']. Production contries: United States of America
+### The Angry Birds Movie:
+Title: The Angry Birds Movie (2016). Genres: Animation, Adventure, Comedy, Family. Tagline:  Overview: An island populated entirely by happy, flightless birds or almost entirely. In this paradise, Red, a bird with a temper problem, speedy Chuck, and the volatile Bomb have always been outsiders. But when the island is visited by mysterious green piggies, it’s up to these unlikely outcasts to figure out what the pigs are up to.. Production companies: Rovio Animation, Columbia Pictures. Origin country: ['US']. Production contries: Finland, United States of America
 
-### Une nuit:
-Title: Une nuit (). Genres: . Tagline:  Overview: . Production companies: Tomorrow Productions (FR). Origin country: ['FR']. Production contries: France
+### The Croods: A New Age:
+Title: The Croods: A New Age (2020). Genres: Animation, Family, Adventure, Fantasy, Comedy. Tagline:  Overview: Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
 
-### A Man Called Otto:
-Title: A Man Called Otto (2022). Genres: Comedy, Drama. Tagline:  Overview: When a lively young family moves in next door, grumpy widower Otto Anderson meets his match in a quick-witted, pregnant woman named Marisol, leading to an unlikely friendship that turns his world upside down.. Production companies: Playtone, SF Studios, Artistic Films, Columbia Pictures, 2DUX², TSG Entertainment. Origin country: ['US']. Production contries: Sweden, United States of America
+### PAW Patrol: The Mighty Movie:
+Title: PAW Patrol: The Mighty Movie (2023). Genres: Adventure, Animation, Comedy, Family, Science Fiction. Tagline:  Overview: A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups.. Production companies: Nickelodeon Movies, Spin Master, Paramount Pictures. Origin country: ['US', 'CA']. Production contries: Canada, France, United States of America
 
-### Wc Strangers:
-Title: Wc Strangers (2024). Genres: Drama. Tagline:  Overview: Two people who meet each other while living in the same boarding house and get to know each other, end up being trapped in the boarding house bathroom and start sharing stories with one another.. Production companies: IlmusiarFilms. Origin country: ['ID']. Production contries: Indonesia
+### Dungeons & Dragons: Honor Among Thieves:
+Title: Dungeons & Dragons: Honor Among Thieves (2023). Genres: Adventure, Fantasy, Comedy. Tagline:  Overview: A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.. Production companies: Entertainment One, Paramount Pictures. Origin country: ['US']. Production contries: Canada, United States of America
 
-### The Social Network:
-Title: The Social Network (2010). Genres: Drama. Tagline:  Overview: In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.. Production companies: Columbia Pictures, Relativity Media, Scott Rudin Productions, Michael De Luca Productions, Trigger Street Productions. Origin country: ['US']. Production contries: United States of America
+### Incredibles 2:
+Title: Incredibles 2 (2018). Genres: Action, Adventure, Animation, Family. Tagline:  Overview: Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.. Production companies: Pixar. Origin country: ['US']. Production contries: United States of America
 
-### All Quiet on the Western Front:
-Title: All Quiet on the Western Front (2022). Genres: War, Drama. Tagline:  Overview: Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.. Production companies: Amusement Park Films, Gunpowder Films. Origin country: ['DE']. Production contries: Germany
+### Hotel Transylvania 3: Summer Vacation:
+Title: Hotel Transylvania 3: Summer Vacation (2018). Genres: Animation, Comedy, Family, Fantasy. Tagline:  Overview: Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship’s captain, Ericka, who’s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.. Production companies: Columbia Pictures, Sony Pictures Animation, MRC. Origin country: ['US']. Production contries: United States of America
 
-### The French Dispatch of the Liberty, Kansas Evening Sun:
-Title: The French Dispatch of the Liberty, Kansas Evening Sun (2021). Genres: Drama, Comedy. Tagline:  Overview: The staff of an American magazine based in France puts out its last issue, with stories featuring an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.. Production companies: Indian Paintbrush, American Empirical Pictures, Studio Babelsberg. Origin country: ['US']. Production contries: United States of America, Germany
+### Ghostbusters: Frozen Empire:
+Title: Ghostbusters: Frozen Empire (2024). Genres: Fantasy, Adventure, Comedy. Tagline:  Overview: The Spengler family returns to where it all started - the iconic New York City firehouse - to team up with the original Ghostbusters, who've developed a top-secret research lab to take busting ghosts to the next level. But when the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second Ice Age.. Production companies: Ghost Corps, Columbia Pictures, TSG Entertainment. Origin country: ['US']. Production contries: United States of America
 
-### Babylon:
-Title: Babylon (2022). Genres: Drama, Comedy. Tagline:  Overview: A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters in an era of unbridled decadence and depravity during Hollywood's transition from silent films to sound films in the late 1920s.. Production companies: Paramount Pictures, Marc Platt Productions, C2 Motion Picture Group, Organism Pictures, Wild Chickens Productions. Origin country: ['US']. Production contries: United States of America
+### Kung Fu Panda 3:
+Title: Kung Fu Panda 3 (2016). Genres: Animation, Action, Adventure, Comedy, Family. Tagline:  Overview: While Po and his father are visiting a secret panda village, an evil spirit threatens all of China, forcing Po to form a ragtag army to fight back.. Production companies: DreamWorks Animation, Oriental DreamWorks, Zhong Ming You Ying Film, China Film Group Corporation. Origin country: ['US']. Production contries: China, United States of America
 
-### Manchester by the Sea:
-Title: Manchester by the Sea (2016). Genres: Drama. Tagline:  Overview: After his older brother passes away, Lee Chandler is forced to return home to care for his 16-year-old nephew. There he is compelled to deal with a tragic past that separated him from his family and the community where he was born and raised.. Production companies: Pearl Street Films, K Period Media, B Story, The Affleck/Middleton Project, The Media Farm, Big Indie Pictures. Origin country: ['US']. Production contries: United States of America
+### The Angry Birds Movie 2:
+Title: The Angry Birds Movie 2 (2019). Genres: Animation, Adventure, Comedy, Family, Action. Tagline:  Overview: Red, Chuck, Bomb and the rest of their feathered friends are surprised when a green pig suggests that they put aside their differences and unite to fight a common threat. Aggressive birds from an island covered in ice are planning to use an elaborate weapon to destroy the fowl and swine.. Production companies: Rovio Animation, Sony Pictures Animation, John Cohen Productions. Origin country: ['US']. Production contries: Finland, United States of America
 
-### The Whale:
-Title: The Whale (2022). Genres: Drama. Tagline:  Overview: A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.. Production companies: A24, Protozoa Pictures. Origin country: ['US']. Production contries: United States of America
+### The Lost City:
+Title: The Lost City (2022). Genres: Action, Adventure, Comedy. Tagline:  Overview: Reclusive author Loretta Sage writes about exotic places in her popular adventure novels that feature a handsome cover model named Alan. While on tour promoting her new book with Alan, Loretta gets kidnapped by an eccentric billionaire who hopes she can lead him to the ancient city's lost treasure that featured in her latest story. Alan, determined to prove he can be a hero in real life and not just on the pages of her books, sets off to rescue her.. Production companies: Fortis Films, 3dot Productions, Exhibit A. Origin country: ['US']. Production contries: United States of America
 
-### Her:
-Title: Her (2013). Genres: Romance, Science Fiction, Drama. Tagline:  Overview: In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user's every need. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.. Production companies: Annapurna Pictures. Origin country: ['US']. Production contries: United States of America
+### Hotel Transylvania: Transformania:
+Title: Hotel Transylvania: Transformania (2022). Genres: Animation, Comedy, Family, Adventure, Fantasy. Tagline:  Overview: When Van Helsing's mysterious invention, the "Monsterfication Ray," goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it's too late, and before they drive each other crazy.. Production companies: Sony Pictures Animation, Sony Pictures, MRC, Columbia Pictures. Origin country: ['US']. Production contries: United States of America
 
-### The King's Speech:
-Title: The King's Speech (2010). Genres: Drama, History. Tagline:  Overview: The King's Speech tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stutter and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country into war.. Production companies: The Weinstein Company, UK Film Council, Momentum Pictures, Aegis Film Fund, FilmNation Entertainment, See-Saw Films, Bedlam Productions. Origin country: ['GB']. Production contries: United Kingdom, United States of America
+### The Mitchells vs. the Machines:
+Title: The Mitchells vs. the Machines (2021). Genres: Animation, Adventure, Comedy. Tagline:  Overview: A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.. Production companies: Lord Miller, Columbia Pictures, Sony Pictures Animation, One Cool Films. Origin country: ['US']. Production contries: Hong Kong, United States of America
 
-### Portrait of a Lady on Fire:
-Title: Portrait of a Lady on Fire (2019). Genres: Drama, Romance. Tagline:  Overview: On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.. Production companies: Lilies Films, ARTE France Cinéma, Hold Up Films. Origin country: ['FR']. Production contries: France
+### Jumanji: The Next Level:
+Title: Jumanji: The Next Level (2019). Genres: Adventure, Comedy, Fantasy. Tagline:  Overview: As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.. Production companies: Columbia Pictures, Seven Bucks Productions, Matt Tolmach Productions, The Detective Agency. Origin country: ['US']. Production contries: United States of America
 
-### Hamnet:
-Title: Hamnet (2025). Genres: Drama, Romance. Tagline:  Overview: The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.. Production companies: Hera Pictures, Neal Street Productions, Amblin Entertainment, Book of Shadows. Origin country: ['US']. Production contries: United Kingdom, United States of America
+### Wonka:
+Title: Wonka (2023). Genres: Comedy, Family, Fantasy. Tagline:  Overview: Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.. Production companies: Warner Bros. Pictures, Village Roadshow Pictures, The Roald Dahl Story Company, Heyday Films, Domain Entertainment. Origin country: ['GB']. Production contries: United Kingdom, United States of America
 
-### Society of the Snow:
-Title: Society of the Snow (2023). Genres: Drama, History. Tagline:  Overview: On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.. Production companies: El Arriero Films, Misión de Audaces Films, Netflix. Origin country: ['ES']. Production contries: Spain, United States of America
+### Despicable Me 3:
+Title: Despicable Me 3 (2017). Genres: Action, Animation, Comedy, Family, Adventure. Tagline:  Overview: Gru and his wife Lucy must stop former '80s child star Balthazar Bratt from achieving world domination.. Production companies: Illumination, Universal Pictures. Origin country: ['US']. Production contries: United States of America
 
-### Kinds of Kindness:
-Title: Kinds of Kindness (2024). Genres: Comedy, Drama. Tagline:  Overview: A triptych fable following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.. Production companies: Searchlight Pictures, Film4 Productions, TSG Entertainment, Element Pictures, Limp. Origin country: ['US']. Production contries: Ireland, United Kingdom, United States of America
+### Sing 2:
+Title: Sing 2 (2021). Genres: Animation, Comedy, Family, Music. Tagline:  Overview: Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.. Production companies: Illumination. Origin country: ['US']. Production contries: United States of America
 
-### The French Dispatch of the Liberty, Kansas Evening Sun:
-Title: The French Dispatch of the Liberty, Kansas Evening Sun (2021). Genres: Drama, Comedy. Tagline:  Overview: The staff of an American magazine based in France puts out its last issue, with stories featuring an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.. Production companies: Indian Paintbrush, American Empirical Pictures, Studio Babelsberg. Origin country: ['US']. Production contries: United States of America, Germany
+### The Lego Movie:
+Title: The Lego Movie (2014). Genres: Animation, Family, Adventure, Comedy, Fantasy. Tagline:  Overview: An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.. Production companies: Lin Pictures, Vertigo Entertainment, Village Roadshow Pictures, Animal Logic, Warner Animation Group, RatPac Entertainment, The LEGO Group. Origin country: ['US']. Production contries: United States of America, Australia
 
-### The Bikeriders:
-Title: The Bikeriders (2024). Genres: Crime, Drama. Tagline:  Overview: After a chance encounter, headstrong Kathy is drawn to Benny, member of Midwestern motorcycle club the Vandals. As the club transforms into a dangerous underworld of violence, Benny must choose between Kathy and his loyalty to the club.. Production companies: Tri-State Pictures, New Regency Pictures, Regency Enterprises. Origin country: ['US']. Production contries: United States of America
+### Goosebumps:
+Title: Goosebumps (2015). Genres: Adventure, Horror, Comedy. Tagline:  Overview: After moving to a small town, Zach Cooper finds a silver lining when he meets next door neighbor Hannah, the daughter of bestselling Goosebumps series author R.L. Stine. When Zach unintentionally unleashes real monsters from their manuscripts and they begin to terrorize the town, it’s suddenly up to Stine, Zach and Hannah to get all of them back in the books where they belong.. Production companies: Columbia Pictures, Sony Pictures Animation, Original Film, Village Roadshow Pictures, Scholastic Entertainment. Origin country: ['US']. Production contries: United States of America
 
-### A Complete Unknown:
-Title: A Complete Unknown (2024). Genres: Drama, Music. Tagline:  Overview: New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.. Production companies: Veritas Entertainment Group, Range Media Partners, The Picture Company, Turnpike Films, White Water, Searchlight Pictures, TSG Entertainment. Origin country: ['US']. Production contries: United States of America
+### Beau Is Afraid:
+Title: Beau Is Afraid (2023). Genres: Comedy, Adventure, Fantasy. Tagline:  Overview: Following the sudden death of his mother, a mild-mannered but anxiety-ridden man confronts his darkest fears as he embarks on an epic odyssey back home.. Production companies: A24, Square Peg, IPR.VC, Access Entertainment. Origin country: ['US']. Production contries: United States of America, Finland
 
-### The Idea of You:
-Title: The Idea of You (2024). Genres: Music, Comedy, Romance, Drama. Tagline:  Overview: 40-year-old single mom Solène begins an unexpected romance with 24-year-old Hayes Campbell, the lead singer of August Moon, the hottest boy band on the planet. As they begin a whirlwind romance, it isn't long before Hayes' superstar status poses unavoidable challenges to their relationship, and Solène soon discovers that life in the glare of his spotlight might be more than she bargained for.. Production companies: Welle Entertainment, Somewhere Pictures, I'll Have Another, Semi-Formal Productions, Amazon MGM Studios. Origin country: ['US']. Production contries: United States of America
+### Trolls:
+Title: Trolls (2016). Genres: Adventure, Animation, Comedy, Family, Fantasy. Tagline:  Overview: After the monstrous Bergens invade Troll Village, Princess Poppy, the happiest Troll ever born, and overly-cautious, curmudgeonly outcast Branch set off on a journey to rescue her friends. Their mission is full of adventure and mishaps, as this mismatched duo try to tolerate each other long enough to get the job done.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
 
-### Perfect Days:
-Title: Perfect Days (2023). Genres: Drama. Tagline:  Overview: Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world.. Production companies: Master Mind, Wenders Images. Origin country: ['JP']. Production contries: Germany, Japan
+### Minions:
+Title: Minions (2015). Genres: Family, Animation, Adventure, Comedy. Tagline:  Overview: Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.. Production companies: Illumination, Universal Pictures. Origin country: ['US']. Production contries: United States of America
 
-### Moneyball:
-Title: Moneyball (2011). Genres: Drama. Tagline:  Overview: The story of Oakland Athletics general manager Billy Beane's successful attempt to put together a baseball team on a budget, by employing computer-generated analysis to draft his players.. Production companies: Scott Rudin Productions, Michael De Luca Productions, Rachael Horovitz Productions, Columbia Pictures. Origin country: ['US']. Production contries: United States of America
+### DC League of Super-Pets:
+Title: DC League of Super-Pets (2022). Genres: Family, Comedy, Adventure, Animation, Science Fiction, Action. Tagline:  Overview: When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the superheroes.. Production companies: Warner Animation Group, Seven Bucks Productions, Animal Logic, DC. Origin country: ['US']. Production contries: United States of America, Canada
 
-### Perfect Days:
-Title: Perfect Days (2023). Genres: Drama. Tagline:  Overview: Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world.. Production companies: Master Mind, Wenders Images. Origin country: ['JP']. Production contries: Germany, Japan
+### Resident Evil: Death Island:
+Title: Resident Evil: Death Island (2023). Genres: Action, Animation, Science Fiction, Horror. Tagline:  Overview: In San Francisco, Jill Valentine is dealing with a zombie outbreak and a new T-Virus, Leon Kennedy is on the trail of a kidnapped DARPA scientist, and Claire Redfield is investigating a monstrous fish that is killing whales in the bay. Joined by Chris Redfield and Rebecca Chambers, they discover the trail of clues from their separate cases all converge on the same location, Alcatraz Island, where a new evil has taken residence and awaits their arrival.. Production companies: Capcom, Quebico, Sony Pictures, Sammy, Robot Communications, KADOKAWA, TMS Entertainment. Origin country: ['JP']. Production contries: Japan
 
-### Past Lives:
-Title: Past Lives (2023). Genres: Drama, Romance. Tagline:  Overview: After decades apart, childhood friends Nora and Hae Sung are reunited in New York for one fateful weekend as they confront notions of destiny, love, and the choices that make a life.. Production companies: A24, Killer Films, 2AM, CJ ENM. Origin country: ['US']. Production contries: United States of America, South Korea
+### Goosebumps 2: Haunted Halloween:
+Title: Goosebumps 2: Haunted Halloween (2018). Genres: Comedy, Fantasy, Horror, Family. Tagline:  Overview: Be careful what you wish for. With their after school junk business, best friends Sonny and Sam hope to find treasure in other people’s trash. But when cleaning out the old Stine house, they open a locked book that frees a supernatural nightmare – Slappy! Now, with the help of Sonny’s sister Sarah, they’re in a race against time to get the sinister dummy and all the creatures he’s brought to life back into the pages before he unleashes total pandemonium!. Production companies: Columbia Pictures, Original Film, Scholastic Entertainment, Silvertongue Films, Sony Pictures Animation. Origin country: ['US']. Production contries: United States of America
 
-### Blue Sky Jo:
-Title: Blue Sky Jo (2024). Genres: Drama, Comedy. Tagline:  Overview: With the help of a gruff old neighbor, a little girl from Limoilou, blessed with a fertile imagination, sets out to make her father happier.. Production companies: Parallaxes. Origin country: ['CA']. Production contries: Canada
+### The Ice Age Adventures of Buck Wild:
+Title: The Ice Age Adventures of Buck Wild (2022). Genres: Animation, Comedy, Family, Adventure. Tagline:  Overview: The fearless one-eyed weasel Buck teams up with mischievous possum brothers Crash & Eddie as they head off on a new adventure into Buck's home: The Dinosaur World.. Production companies: Bardel Entertainment, Walt Disney Pictures. Origin country: ['US']. Production contries: Canada, United States of America
 
-### The Fabelmans:
-Title: The Fabelmans (2022). Genres: Drama. Tagline:  Overview: Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret and explores how the power of films can help him see the truth.. Production companies: Amblin Entertainment, Reliance Entertainment. Origin country: ['US']. Production contries: United States of America, India
+### The Boss Baby: Family Business:
+Title: The Boss Baby: Family Business (2021). Genres: Animation, Comedy, Adventure, Family. Tagline:  Overview: The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
 
-### King Richard:
-Title: King Richard (2021). Genres: Drama, History. Tagline:  Overview: The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.. Production companies: Star Thrower Entertainment, Westbrook, Warner Bros. Pictures, Overbrook Entertainment. Origin country: ['US']. Production contries: United States of America
+### Trolls Band Together:
+Title: Trolls Band Together (2023). Genres: Animation, Family, Music, Fantasy, Comedy, Adventure. Tagline:  Overview: When Branch's brother, Floyd, is kidnapped for his musical talents by a pair of nefarious pop-star villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop-culture obscurity.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
 
-### Three Steps Above Heaven:
-Title: Three Steps Above Heaven (2010). Genres: Romance, Drama. Tagline:  Overview: Babi, a sheltered upper-class girl, and Hache, a reckless rebel obsessed with illegal motorcycle races, fall into a forbidden love that pulls them deeper into passion and risk.. Production companies: Zeta Studios, Cangrejo Films, Globomedia, Atresmedia Cine. Origin country: ['ES']. Production contries: Spain
+### Isle of Dogs:
+Title: Isle of Dogs (2018). Genres: Adventure, Comedy, Animation. Tagline:  Overview: In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island used as a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.. Production companies: Studio Babelsberg, American Empirical Pictures, Indian Paintbrush, Scott Rudin Productions. Origin country: ['US']. Production contries: United States of America, Germany
 
-### Three Steps Above Heaven:
-Title: Three Steps Above Heaven (2010). Genres: Romance, Drama. Tagline:  Overview: Babi, a sheltered upper-class girl, and Hache, a reckless rebel obsessed with illegal motorcycle races, fall into a forbidden love that pulls them deeper into passion and risk.. Production companies: Zeta Studios, Cangrejo Films, Globomedia, Atresmedia Cine. Origin country: ['ES']. Production contries: Spain
+### Miraculous: Ladybug & Cat Noir, The Movie:
+Title: Miraculous: Ladybug & Cat Noir, The Movie (2023). Genres: Animation, Fantasy, Action, Romance, Family. Tagline:  Overview: After a guardian of magical jewels turns an awkward girl and a popular boy into superheroes, they can never reveal their identities — even to each other.. Production companies: The Awakening Production, SND, Fantawild, Zag Animation Studios, ON Animation Studios. Origin country: ['FR']. Production contries: China, France, Canada
 
-### Kinds of Kindness:
-Title: Kinds of Kindness (2024). Genres: Comedy, Drama. Tagline:  Overview: A triptych fable following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.. Production companies: Searchlight Pictures, Film4 Productions, TSG Entertainment, Element Pictures, Limp. Origin country: ['US']. Production contries: Ireland, United Kingdom, United States of America
+### Ruby Gillman, Teenage Kraken:
+Title: Ruby Gillman, Teenage Kraken (2023). Genres: Animation, Family, Fantasy, Comedy. Tagline:  Overview: Ruby Gillman, a sweet and awkward high school student, discovers she's a direct descendant of the warrior kraken queens. The kraken are sworn to protect the oceans of the world against the vain, power-hungry mermaids. Destined to inherit the throne from her commanding grandmother, Ruby must use her newfound powers to protect those she loves most.. Production companies: DreamWorks Animation. Origin country: ['US']. Production contries: United States of America
 
-### Obsessed:
-Title: Obsessed (2014). Genres: Drama, Romance. Tagline:  Overview: A secret, passionate affair happens in the summer of 1969 between Colonel Jin Pyeong, trapped in a loveless marriage with Soo Jin, and Jong Ga Heun, the Chinese-Korean wife of Captain Kyung Woo Jin.. Production companies: Next Entertainment World, Finecut, Iron Pack. Origin country: ['KR']. Production contries: South Korea
+### Men in Black: International:
+Title: Men in Black: International (2019). Genres: Comedy, Science Fiction, Action, Adventure. Tagline:  Overview: The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.. Production companies: Amblin Entertainment, Parkes+MacDonald Image Nation, Columbia Pictures, Tencent Pictures. Origin country: ['US']. Production contries: China, United States of America
 
-### Moneyball:
-Title: Moneyball (2011). Genres: Drama. Tagline:  Overview: The story of Oakland Athletics general manager Billy Beane's successful attempt to put together a baseball team on a budget, by employing computer-generated analysis to draft his players.. Production companies: Scott Rudin Productions, Michael De Luca Productions, Rachael Horovitz Productions, Columbia Pictures. Origin country: ['US']. Production contries: United States of America
+### PAW Patrol: The Movie:
+Title: PAW Patrol: The Movie (2021). Genres: Action, Adventure, Animation, Comedy, Family. Tagline:  Overview: Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.. Production companies: Nickelodeon Movies, Paramount Pictures, Mikros Image, Spin Master, Mikros Animation. Origin country: ['US']. Production contries: Canada, France, United States of America
 
-### Pearl:
-Title: Pearl (2022). Genres: Horror, Drama. Tagline:  Overview: Trapped on her family’s isolated farm, Pearl must tend to her ailing father under the bitter and overbearing watch of her devout mother. Lusting for a glamorous life like she’s seen in the movies, Pearl’s ambitions, temptations, and repressions collide.. Production companies: A24, Little Lamb Productions. Origin country: ['US']. Production contries: United States of America
+### Maleficent: Mistress of Evil:
+Title: Maleficent: Mistress of Evil (2019). Genres: Family, Fantasy, Adventure. Tagline:  Overview: Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.. Production companies: Walt Disney Pictures, Roth Films. Origin country: ['US']. Production contries: United States of America
 
-### Lady Bird:
-Title: Lady Bird (2017). Genres: Drama, Comedy. Tagline:  Overview: Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.. Production companies: IAC Films, Scott Rudin Productions, Entertainment 360. Origin country: ['US']. Production contries: United States of America
+### Sausage Party:
+Title: Sausage Party (2016). Genres: Adventure, Animation, Comedy, Fantasy. Tagline:  Overview: Hot dog Frank leads a group of supermarket products on a quest to discover the truth about their existence and what really happens when they're chosen to leave the grocery store.. Production companies: Columbia Pictures, Annapurna Pictures, Nitrogen Studios Canada, Point Grey Pictures. Origin country: ['US']. Production contries: United States of America, Canada
 
-### Spotlight:
-Title: Spotlight (2015). Genres: Drama, History. Tagline:  Overview: The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.. Production companies: Participant, Anonymous Content, Rocklin / Faust, First Look Media, Open Road Films. Origin country: ['US']. Production contries: United States of America
+### Haunted Mansion:
+Title: Haunted Mansion (2023). Genres: Comedy, Drama, Fantasy. Tagline:  Overview: A woman and her son enlist a motley crew of so-called spiritual experts to help rid their home of supernatural squatters.. Production companies: Walt Disney Pictures, Rideback. Origin country: ['US']. Production contries: United States of America
 
-### The Perks of Being a Wallflower:
-Title: The Perks of Being a Wallflower (2012). Genres: Drama. Tagline:  Overview: Pittsburgh, Pennsylvania, 1991. High school freshman Charlie is a wallflower, always watching life from the sidelines, until two senior students, Sam and her stepbrother Patrick, become his mentors, helping him discover the joys of friendship, music and love.. Production companies: Mr. Mudd. Origin country: ['US']. Production contries: United States of America
+### Ron's Gone Wrong:
+Title: Ron's Gone Wrong (2021). Genres: Animation, Science Fiction, Family, Comedy. Tagline:  Overview: In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.. Production companies: Locksmith Animation, TSG Entertainment, DNEG. Origin country: ['US', 'GB']. Production contries: United Kingdom, United States of America
 
-### The Last Duel:
-Title: The Last Duel (2021). Genres: Drama, History. Tagline:  Overview: King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire, Jacques Le Gris, by challenging him to a duel.. Production companies: 20th Century Studios, Pearl Street Films, Scott Free Productions. Origin country: ['US']. Production contries: United States of America
+### Teenage Mutant Ninja Turtles: Mutant Mayhem:
+Title: Teenage Mutant Ninja Turtles: Mutant Mayhem (2023). Genres: Animation, Comedy, Action, Science Fiction. Tagline:  Overview: After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Their new friend April O'Neil helps them take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.. Production companies: Paramount Pictures, Nickelodeon Movies, Point Grey Pictures, Cinesite Animation, Mikros Animation. Origin country: ['US']. Production contries: Canada, France, United States of America
 
-### Les Misérables:
-Title: Les Misérables (2012). Genres: History, Drama. Tagline:  Overview: An adaptation of the successful stage musical based on Victor Hugo's classic novel set in 19th-century France. Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.. Production companies: Universal Pictures, Working Title, Cameron Mackintosh Ltd., Relativity Media, Working Title Films. Origin country: ['GB', 'US']. Production contries: United Kingdom, United States of America
+### IF:
+Title: IF (2024). Genres: Comedy, Fantasy, Family. Tagline:  Overview: After discovering she can see everyone's imaginary friends, a girl embarks on a magical adventure to reconnect forgotten imaginary friends with their kids.. Production companies: Paramount Pictures, Sunday Night Productions, Maximum Effort. Origin country: ['US']. Production contries: United States of America
 
-### Populaire:
-Title: Populaire (2012). Genres: Comedy, Romance. Tagline:  Overview: An insurance agent and his new secretary become locked in the grip of romance and competition as they train together for a speed-typing contest.. Production companies: Les Productions du Trésor, Compagnie Cinématographique Européenne, Panache Productions, Wild Bunch, France 3 Cinéma, France 2 Cinéma, France Télévisions, Canal+, Ciné+, Eurimages, Wallimage, Belgacom, RTBF, La Compagnie Cinématographique, Mars Films. Origin country: ['FR']. Production contries: Belgium, France
+### The Lego Ninjago Movie:
+Title: The Lego Ninjago Movie (2017). Genres: Animation, Comedy, Adventure, Action, Family. Tagline:  Overview: Six young ninjas are tasked with defending their island home of Ninjago. By night, they’re gifted warriors using their skill and awesome fleet of vehicles to fight villains and monsters. By day, they’re ordinary teens struggling against their greatest enemy....high school.. Production companies: Lin Pictures, Lord Miller, Vertigo Entertainment, Warner Animation Group, Animal Logic, The LEGO Group. Origin country: ['US']. Production contries: Australia, United States of America
 
-### Purple Hearts:
-Title: Purple Hearts (2022). Genres: Romance, Drama. Tagline:  Overview: An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.. Production companies: Alloy Entertainment, Embankment Films, Gidden Media. Origin country: ['US']. Production contries: United Kingdom, United States of America
+### The Lego Movie 2: The Second Part:
+Title: The Lego Movie 2: The Second Part (2019). Genres: Action, Adventure, Animation, Comedy, Family. Tagline:  Overview: It's been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO® invaders from outer space, wrecking everything faster than they can rebuild.. Production companies: Vertigo Entertainment, Warner Animation Group, Lord Miller, Rideback, Animal Logic, The LEGO Group. Origin country: ['CA', 'US']. Production contries: Canada, United States of America
 
-### The Banshees of Inisherin:
-Title: The Banshees of Inisherin (2022). Genres: Drama, Comedy. Tagline:  Overview: Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.. Production companies: Searchlight Pictures, Blueprint Pictures, Film4 Productions, TSG Entertainment, Metropolitan Pictures. Origin country: ['GB', 'US']. Production contries: United Kingdom, United States of America, Ireland
+### Alvin and the Chipmunks: Chipwrecked:
+Title: Alvin and the Chipmunks: Chipwrecked (2011). Genres: Comedy, Fantasy, Family, Music, Animation. Tagline:  Overview: Playing around while aboard a cruise ship, the Chipmunks and Chipettes accidentally go overboard and end up marooned in a tropical paradise. They discover their new turf is not as deserted as it seems.. Production companies: Fox 2000 Pictures, 20th Century Fox, Regency Enterprises, Dune Entertainment, Bagdasarian Productions. Origin country: ['US']. Production contries: United States of America
 
-### A Hologram for the King:
-Title: A Hologram for the King (2016). Genres: Comedy, Drama. Tagline:  Overview: Alan Clay, a struggling American businessman, travels to Saudi Arabia to sell a new technology to the King, only to be challenged by endless Middle Eastern bureaucracy, a perpetually absent monarch, and a suspicious growth on his back.. Production companies: Playtone, X Filme Creative Pool, Primeridian Entertainment, WS Film, Silver Reel, Fábrica de Cine, Lotus Entertainment, 22H22. Origin country: ['DE', 'US']. Production contries: Germany, United States of America, France, Mexico, Switzerland
+### Chicken Run: Dawn of the Nugget:
+Title: Chicken Run: Dawn of the Nugget (2023). Genres: Family, Animation, Adventure, Comedy. Tagline:  Overview: A band of fearless chickens flock together to save poultry-kind from an unsettling new threat: a nearby farm that's cooking up something suspicious.. Production companies: Aardman. Origin country: ['GB']. Production contries: United Kingdom
 
-### The Lobster:
-Title: The Lobster (2015). Genres: Comedy, Drama, Romance. Tagline:  Overview: In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.. Production companies: Scarlet Films, Haut et Court, Eurimages, Lemming Film, Element Pictures, Nederlands Fonds voor de Film, Greek Film Centre, Faliro House Productions, Limp, Film4 Productions, Protagonist Pictures. Origin country: ['IE', 'GB']. Production contries: France, Greece, Ireland, Netherlands, United Kingdom
+### Tom & Jerry:
+Title: Tom & Jerry (2021). Genres: Comedy, Family, Animation. Tagline:  Overview: Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.. Production companies: Warner Animation Group, Turner Entertainment Co., The Story Company, Warner Bros. Pictures. Origin country: ['US']. Production contries: United States of America
 
-### Persian Lessons:
-Title: Persian Lessons (2020). Genres: War, Drama. Tagline:  Overview: Occupied France, 1942. Gilles is arrested by SS soldiers alongside other Jews and sent to a camp in Germany. He narrowly avoids sudden execution by swearing to the guards that he is not Jewish, but Persian. This lie temporarily saves him, but Gilles gets assigned a life-or-death mission: to teach Farsi to Head of Camp Koch, who dreams of opening a restaurant in Iran once the war is over. Through an ingenious trick, Gilles manages to survive by inventing words of "Farsi" every day and teaching them to Koch.. Production companies: LM Media, One Two Films, Belarusfilm, Hype Studios. Origin country: ['RU', 'DE', 'BY']. Production contries: Russia, Germany, Belarus, France
+### Paddington 2:
+Title: Paddington 2 (2017). Genres: Adventure, Comedy, Family. Tagline:  Overview: Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.. Production companies: StudioCanal, Heyday Films, Anton Capital Entertainment. Origin country: ['GB']. Production contries: France, United Kingdom
 
-### Young Hearts:
-Title: Young Hearts (2024). Genres: Drama, Romance. Tagline:  Overview: 14-year-old Elias increasingly feels like an outsider in his village. When he meets his new neighbour of the same age, Alexander, Elias is confronted with his burgeoning sexuality.. Production companies: Polar Bear Films, Family Affair Films, Kwassa Films. Origin country: ['BE', 'NL']. Production contries: Belgium, Netherlands
+### Clifford the Big Red Dog:
+Title: Clifford the Big Red Dog (2021). Genres: Family, Adventure, Comedy, Fantasy. Tagline:  Overview: As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.. Production companies: Paramount Pictures, Entertainment One, New Republic Pictures, Scholastic Entertainment, The Kerner Entertainment Company. Origin country: ['US']. Production contries: Canada, United States of America
 
-### Purple Hearts:
-Title: Purple Hearts (2022). Genres: Romance, Drama. Tagline:  Overview: An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.. Production companies: Alloy Entertainment, Embankment Films, Gidden Media. Origin country: ['US']. Production contries: United Kingdom, United States of America
-
-### Moonlight:
-Title: Moonlight (2016). Genres: Drama. Tagline:  Overview: The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality.. Production companies: A24, Plan B Entertainment, PASTEL. Origin country: ['US']. Production contries: United States of America
-
-### Finding You:
-Title: Finding You (2021). Genres: Romance, Drama. Tagline:  Overview: Finley, a talented aspiring violinist, meets Beckett, a famous young movie star, on the way to her college semester abroad program in a small coastal village in Ireland. An unexpected romance emerges as the heartthrob Beckett leads the uptight Finley on an adventurous reawakening, and she emboldens him to take charge of his future, until the pressures of his stardom get in the way.. Production companies: Roadside Attractions, Red Sky Studios, Nook Lane Entertainment, Voltage Pictures. Origin country: ['US']. Production contries: United States of America
-
-### The Holdovers:
-Title: The Holdovers (2023). Genres: Drama, Comedy. Tagline:  Overview: A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.. Production companies: Miramax, Gran Via Productions. Origin country: ['US']. Production contries: United States of America
-
-### In the Realm of the Senses:
-Title: In the Realm of the Senses (1976). Genres: Drama, Romance. Tagline:  Overview: A passionate telling of the story of Sada Abe, a woman whose affair with her master led to an obsessive and ultimately destructive sexual relationship.. Production companies: Argos films, Oshima Productions, Shibata Organisation. Origin country: ['JP']. Production contries: Japan, France
-
-### A Real Pain:
-Title: A Real Pain (2024). Genres: Comedy, Drama. Tagline:  Overview: Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.. Production companies: Fruit Tree, Topic Studios, Extreme Emotions, Rego Park, Mazowiecki Instytut Kultury. Origin country: ['US']. Production contries: Poland, United States of America
-
-### Nymphomaniac: Vol. II:
-Title: Nymphomaniac: Vol. II (2013). Genres: Drama, Mystery. Tagline:  Overview: The continuation of Joe's sexually dictated life delves into the darker aspects of her adult life and what led to her being in Seligman's care.. Production companies: Zentropa Entertainments, Zentropa International Köln, Zentropa International France, Zentropa International Sweden, Slot Machine, Caviar, Zenbelgie BVBA, ARTE France Cinéma, Film i Väst, Groupe Grand Accord. Origin country: ['DK']. Production contries: Denmark, Germany, Belgium, France, Sweden
-
-### All of Us Strangers:
-Title: All of Us Strangers (2023). Genres: Romance, Drama, Fantasy. Tagline:  Overview: One night in his near-empty tower block in contemporary London, Adam has a chance encounter with a mysterious neighbor, which punctures the rhythm of his everyday life.. Production companies: Film4 Productions, Blueprint Pictures, Searchlight Pictures, TSG Entertainment. Origin country: ['US']. Production contries: United Kingdom, United States of America
-
-### Gran Turismo:
-Title: Gran Turismo (2023). Genres: Adventure, Drama, Action. Tagline:  Overview: The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.. Production companies: PlayStation Productions, 2.0 Entertainment, Columbia Pictures. Origin country: ['US']. Production contries: United States of America
-
-### Parallel Mothers:
-Title: Parallel Mothers (2021). Genres: Drama. Tagline:  Overview: Two unmarried women who have become pregnant by accident and are about to give birth meet in a hospital room: Janis, in her late-thirties, unrepentant and happy; Ana, a teenager, remorseful and frightened.. Production companies: El Deseo, TVE. Origin country: ['ES']. Production contries: Spain
-
-### The Iron Claw:
-Title: The Iron Claw (2023). Genres: Drama, History. Tagline:  Overview: The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.. Production companies: House Productions, BBC Film, A24, Access Entertainment. Origin country: ['US']. Production contries: United Kingdom, United States of America
-
-### Hachi: A Dog's Tale:
-Title: Hachi: A Dog's Tale (2009). Genres: Drama, Family. Tagline:  Overview: Professor Wilson discovers a lost Akita puppy on his way home. Despite objections from his wife, Hachi endears himself to the family and grows to be Parker's loyal companion. As their bond grows deeper, a beautiful relationship unfolds.. Production companies: Scion Films, Stage 6 Films, Inferno Distribution, Hachiko, Grand Army Entertainment, Opperman Viner Chrystyn Entertainment. Origin country: ['GB', 'US']. Production contries: United Kingdom, United States of America
-
-### The Fault in Our Stars:
-Title: The Fault in Our Stars (2014). Genres: Romance, Drama. Tagline:  Overview: Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a patient named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.. Production companies: TSG Entertainment, Fox 2000 Pictures, Temple Hill Entertainment. Origin country: ['US']. Production contries: United States of America
-
-### Moonlight:
-Title: Moonlight (2016). Genres: Drama. Tagline:  Overview: The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality.. Production companies: A24, Plan B Entertainment, PASTEL. Origin country: ['US']. Production contries: United States of America
-
-### Shoplifters:
-Title: Shoplifters (2018). Genres: Drama, Crime, Thriller. Tagline:  Overview: In the outskirts of Tokyo, a poor but close-knit group living on the fringes of society survives through shoplifting and odd jobs. When Osamu and his son take in a neglected young girl, their already fragile existence begins to unravel. As the family grows attached to her, buried secrets surface, forcing them to confront the true meaning of love, belonging, and what makes a family.. Production companies: Fuji Television Network, AOI Pro., BUN-BUKU, GAGA Corporation. Origin country: ['JP']. Production contries: Japan
-
-### Ticket to Paradise:
-Title: Ticket to Paradise (2022). Genres: Drama, Comedy, Romance. Tagline:  Overview: Divorced couple Georgia and David find themselves on a shared mission: they team up and travel to Bali to stop their daughter Lily from making the same mistake they once made 25 years ago.. Production companies: Smokehouse Pictures, Red Om Films, Working Title, Universal Pictures. Origin country: ['US']. Production contries: United States of America, United Kingdom
-
-### Asteroid City:
-Title: Asteroid City (2023). Genres: Comedy, Drama. Tagline:  Overview: In an American desert town circa 1955, the itinerary of a Junior Stargazer/Space Cadet convention is spectacularly disrupted by world-changing events.. Production companies: Indian Paintbrush, American Empirical Pictures, Studio Babelsberg. Origin country: ['US']. Production contries: United States of America, Germany
-
-### Boyhood:
-Title: Boyhood (2014). Genres: Drama. Tagline:  Overview: The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.. Production companies: IFC Productions, Detour Filmproduction. Origin country: ['US']. Production contries: United States of America
-
-### Bones and All:
-Title: Bones and All (2022). Genres: Horror, Romance, Drama. Tagline:  Overview: Abandoned by her father, a young woman embarks on a thousand-mile odyssey through the backroads of America where she meets a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.. Production companies: Frenesy Film, Per Capita Productions, MeMo Films, The Apartment Pictures, 3 Marys Entertainment, Tenderstories, Elafilm. Origin country: ['US']. Production contries: Italy, United States of America
-
-### Darkest Hour:
-Title: Darkest Hour (2017). Genres: Drama, History. Tagline:  Overview: In May 1940, the fate of World War II hangs on Winston Churchill, who must decide whether to negotiate with Adolf Hitler or fight on knowing that it could mean the end of the British Empire.. Production companies: Working Title, Perfect World Pictures, Focus Features. Origin country: ['GB']. Production contries: United Kingdom, United States of America
-
-### Mommy:
-Title: Mommy (2014). Genres: Drama. Tagline:  Overview: A peculiar neighbor offers hope to a recent widow who is struggling to raise a teenager who is unpredictable and, sometimes, violent.. Production companies: Metafilms, Sons of Manual. Origin country: ['CA']. Production contries: Canada
-
-### Below Her Mouth:
-Title: Below Her Mouth (2017). Genres: Drama, Romance. Tagline:  Overview: An unexpected affair quickly escalates into a heart-stopping reality for two women whose passionate connection changes their lives forever.. Production companies: Serendipity Point Films. Origin country: ['CA']. Production contries: Canada
-
-### The Banshees of Inisherin:
-Title: The Banshees of Inisherin (2022). Genres: Drama, Comedy. Tagline:  Overview: Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.. Production companies: Searchlight Pictures, Blueprint Pictures, Film4 Productions, TSG Entertainment, Metropolitan Pictures. Origin country: ['GB', 'US']. Production contries: United Kingdom, United States of America, Ireland
-
-### Aftersun:
-Title: Aftersun (2022). Genres: Drama. Tagline:  Overview: Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories fill the gaps between camcorder footages as she tries to reconcile the father she knew with the troubled man she didn't.. Production companies: PASTEL, BBC Film, Tango Entertainment, Unified Theory, Screen Scotland, BFI. Origin country: ['US']. Production contries: United Kingdom, United States of America
-
-### Below Her Mouth:
-Title: Below Her Mouth (2017). Genres: Drama, Romance. Tagline:  Overview: An unexpected affair quickly escalates into a heart-stopping reality for two women whose passionate connection changes their lives forever.. Production companies: Serendipity Point Films. Origin country: ['CA']. Production contries: Canada
-
-### The Favourite:
-Title: The Favourite (2018). Genres: History, Comedy, Drama. Tagline:  Overview: England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite.. Production companies: Waypoint Entertainment, Element Pictures, Scarlet Films, Film4 Productions, Fox Searchlight Pictures, Fís Éireann/Screen Ireland, TSG Entertainment. Origin country: ['US']. Production contries: Ireland, United Kingdom, United States of America
-
-### The Theory of Everything:
-Title: The Theory of Everything (2014). Genres: Drama, Romance. Tagline:  Overview: Once a healthy, active young man, Hawking received an earth-shattering diagnosis at 21 years of age. With Jane fighting tirelessly by his side, Stephen embarks on his most ambitious scientific work, studying the very thing he now has precious little of – time.. Production companies: Working Title, Working Title Films. Origin country: ['GB']. Production contries: United Kingdom, United States of America
-
-### The Power of the Dog:
-Title: The Power of the Dog (2021). Genres: Drama, Western. Tagline:  Overview: A domineering but charismatic rancher wages a war of intimidation on his brother's new wife and her teen son, until long-hidden secrets come to light.. Production companies: See-Saw Films, Max Films, Brightstar, New Zealand Film Commission, Cross City Films, BBC Film, Bad Girl Creek. Origin country: ['AU']. Production contries: Australia, Canada, New Zealand, United Kingdom
-
-### Fly Me to the Moon:
-Title: Fly Me to the Moon (2024). Genres: Romance, Comedy. Tagline:  Overview: Sparks fly in all directions as marketing maven Kelly Jones, brought in to fix NASA's public image, wreaks havoc on Apollo 11 launch director Cole Davis' already difficult task of putting a man on the moon. When the White House deems the mission too important to fail, Jones is directed to stage a fake moon landing as backup, and the countdown truly begins.. Production companies: These Pictures, Berlanti Productions, Apple Studios. Origin country: ['US']. Production contries: United States of America
-
-### Blue Lagoon: The Awakening:
-Title: Blue Lagoon: The Awakening (2012). Genres: Drama, Adventure, Romance, TV Movie. Tagline:  Overview: Two high school students become stranded on a tropical island and must rely on each other for survival. They learn more about themselves and each other while falling in love.. Production companies: Peace Out Productions, SilverScreen Pictures, Sony Pictures Television, Storyline Entertainment, Lifetime. Origin country: ['US']. Production contries: United States of America
-
-### The Founder:
-Title: The Founder (2016). Genres: Drama, History. Tagline:  Overview: The true story of how Ray Kroc, a salesman from Illinois, met Mac and Dick McDonald, who were running a burger operation in 1950s Southern California. Kroc was impressed by the brothers’ speedy system of making the food and saw franchise potential. He maneuvered himself into a position to be able to pull the company from the brothers and create a billion-dollar empire.. Production companies: Speedie Distribution, FilmNation Entertainment, Faliro House Productions, The Combine, The Weinstein Company. Origin country: ['US']. Production contries: Greece, United States of America
-
-### Monster:
-Title: Monster (2023). Genres: Mystery, Thriller, Drama. Tagline:  Overview: After an outburst at school involving her son, a concerned single mother demands answers, triggering a sequence of deepening suspicion and turmoil.. Production companies: TOHO, Fuji Television Network, AOI Pro., BUN-BUKU, GAGA Corporation. Origin country: ['JP']. Production contries: Japan
-
-### Populaire:
-Title: Populaire (2012). Genres: Comedy, Romance. Tagline:  Overview: An insurance agent and his new secretary become locked in the grip of romance and competition as they train together for a speed-typing contest.. Production companies: Les Productions du Trésor, Compagnie Cinématographique Européenne, Panache Productions, Wild Bunch, France 3 Cinéma, France 2 Cinéma, France Télévisions, Canal+, Ciné+, Eurimages, Wallimage, Belgacom, RTBF, La Compagnie Cinématographique, Mars Films. Origin country: ['FR']. Production contries: Belgium, France
-
-### Upgraded:
-Title: Upgraded (2024). Genres: Romance, Comedy. Tagline:  Overview: Ana is an ambitious intern dreaming of a career in the art world while trying to impress her demanding boss Claire. When she's upgraded to first class on a work trip, she meets handsome Will, and Ana pretends to be her boss– a white lie that sets off a glamorous chain of events, romance and opportunity, until her fib threatens to surface.. Production companies: GulfStream Pictures, Tempo Productions, Luber-Roklin Entertainment, Future Artists Entertainment, Amazon Studios. Origin country: ['US']. Production contries: United Kingdom, United States of America
-
-### The Florida Project:
-Title: The Florida Project (2017). Genres: Drama. Tagline:  Overview: The story of a precocious six year-old and her ragtag group of friends whose summer break is filled with childhood wonder, possibility and a sense of adventure while the adults around them struggle with hard times.. Production companies: Cre Film, Freestyle Picture Company, June Pictures. Origin country: ['US']. Production contries: United States of America
-
-### Fifty Shades Darker:
-Title: Fifty Shades Darker (2017). Genres: Drama, Romance. Tagline:  Overview: When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christian’s past start to circle the couple, determined to destroy their hopes for a future together.. Production companies: Universal Pictures, Michael De Luca Productions, Perfect World Pictures. Origin country: ['US']. Production contries: United States of America
-
-### Einstein and the Bomb:
-Title: Einstein and the Bomb (2024). Genres: Documentary, Drama. Tagline:  Overview: What happened after Einstein fled Nazi Germany? Using archival footage and his own words, this docudrama dives into the mind of a tortured genius.. Production companies: BBC Studios Science Unit. Origin country: ['GB']. Production contries: United Kingdom
-
-### After We Fell:
-Title: After We Fell (2021). Genres: Drama, Romance. Tagline:  Overview: Just as Tessa's life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she's been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.. Production companies: Voltage Pictures, Wattpad, Vertical, Ethea Entertainment, CalMaple Films. Origin country: ['US']. Production contries: France, United States of America, Bulgaria
-
-### The Iron Claw:
-Title: The Iron Claw (2023). Genres: Drama, History. Tagline:  Overview: The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.. Production companies: House Productions, BBC Film, A24, Access Entertainment. Origin country: ['US']. Production contries: United Kingdom, United States of America
-
-### House of Gucci:
-Title: House of Gucci (2021). Genres: Drama, History. Tagline:  Overview: When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately… murder.. Production companies: Metro-Goldwyn-Mayer, Bron Studios, Scott Free Productions. Origin country: ['US']. Production contries: Canada, United States of America
-
-### Ok Jaanu:
-Title: Ok Jaanu (2017). Genres: Drama, Romance. Tagline:  Overview: Adi and Tara move to Bombay to pursue their dreams. A chance meeting sparks off a heady, no strings attached romance until their careers pull them apart. Will ambition prevail over matters of the heart?. Production companies: Madras Talkies, Dharma Productions. Origin country: ['IN']. Production contries: India
+### The SpongeBob Movie: Sponge on the Run:
+Title: The SpongeBob Movie: Sponge on the Run (2020). Genres: Adventure, Animation, Comedy, Family, Fantasy. Tagline:  Overview: When his best friend Gary is suddenly snatched away, SpongeBob takes Patrick on a madcap mission far beyond Bikini Bottom to save their pink-shelled pal.. Production companies: United Plankton Pictures, Nickelodeon Movies, Paramount Animation, Paramount Pictures, MRC, Mikros Image, Mikros Animation. Origin country: ['US']. Production contries: United States of America, France, Canada
