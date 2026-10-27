@@ -16,13 +16,12 @@ plt.rcParams.update({
     "grid.alpha": 0.2
 })
 
-from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
 
 # main
 embeddings = np.load("../data/embeddings.npy")
-pc1 = np.load("../data/embeddings-pc1.npy")
-pc2 = np.load("../data/embeddings-pc2.npy")
+tsne1 = np.load("../data/embeddings-tsne1.npy")
+tsne2 = np.load("../data/embeddings-tsne2.npy")
 
 # clustering
 n_clusters = 30
@@ -38,12 +37,12 @@ if int(os.getenv("MAKEPLOT2")):
     
     # scatterplot
     n_plot = int(os.environ.get("N_PLOT", 100))
-    plt.scatter(pc1[:n_plot], pc2[:n_plot], marker="x", label="Movies", cmap="tab10", c=clusters[:n_plot], s=100)
+    plt.scatter(tsne1[:n_plot], tsne2[:n_plot], marker="x", label="Movies", cmap="tab10", c=clusters[:n_plot], s=100)
 
     # add movie titles
     if int(os.getenv("MOVIE_NAMES")):
         df = pd.read_csv("../data/top-rated.csv.gz", usecols=["title"], compression="gzip")
-        for x, y, title in zip(pc1, pc2, df.title.tolist()):
+        for x, y, title in zip(tsne1, tsne2, df.title.tolist()):
             plt.annotate(title, (x,y), textcoords="offset points", xytext=(0,5), ha="center", fontsize=10, alpha=0.5)
 
     plt.xlabel("Principal Component 1")
